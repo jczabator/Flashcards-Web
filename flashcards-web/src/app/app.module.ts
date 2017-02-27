@@ -4,16 +4,27 @@ import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
+import { DashboardComponent } from './dashboard/dashboard.component';
+import { FlashcardCategoriesComponent } from './flashcard-categories/flashcard-categories.component';
+import { FlashcardSetsComponent } from './flashcard-sets/flashcard-sets.component';
+import { FlashcardComponent } from './flashcard/flashcard.component';
+
+import { CoreModule } from "./core/core.module";
 
 @NgModule({
-  declarations: [
-    AppComponent
-  ],
   imports: [
     BrowserModule,
     FormsModule,
-    HttpModule
+    HttpModule,
+    CoreModule
   ],
+  declarations: [
+    AppComponent,
+    DashboardComponent,
+    FlashcardCategoriesComponent,
+    FlashcardSetsComponent,
+    FlashcardComponent,    
+  ],  
   providers: [],
   bootstrap: [AppComponent]
 })
