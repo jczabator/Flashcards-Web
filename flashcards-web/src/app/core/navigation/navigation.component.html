@@ -1,13 +1,9 @@
-<header>
-  <!--<div>
-    <!--<img alt="Flashcard image"></img>-->
-    <!--<span>Fiszki</span>
-  </div> -->
+<header> 
   <div>
-    <ul>
-      <li *ngFor= "let item menuItems">{{item.caption}}</li>
-    </ul>
-    <a *ngFor= "let item menuItems">{{item.caption}}</a> 
+    <!--<ul>
+      <li *ngFor= "let item of menuItems">{{item.caption}}</li>
+    </ul>-->
+    <a *ngFor="let item of menuItems">{{item.caption}}</a> 
     <!--<span>{{menuItems[1].caption}}</span>-->
   </div>
 </header>
