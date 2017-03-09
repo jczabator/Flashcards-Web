@@ -12,6 +12,7 @@ import { FlashcardSetsComponent } from './flashcard-sets/flashcard-sets.componen
 import { FlashcardComponent } from './flashcard/flashcard.component';
 
 import { CoreModule } from "./core/core.module";
+import { DashboardButtonComponent } from './dashboard/dashboard-button/dashboard-button.component';
 
 @NgModule({
   imports: [
@@ -26,7 +27,8 @@ import { CoreModule } from "./core/core.module";
     DashboardComponent,
     FlashcardCategoriesComponent,
     FlashcardSetsComponent,
-    FlashcardComponent,    
+    FlashcardComponent,
+    DashboardButtonComponent,    
   ],  
   providers: [],
   bootstrap: [AppComponent]
