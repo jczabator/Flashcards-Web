@@ -1,3 +1,5 @@
-<p>
-  dashboard works!
-</p>
+<article>
+  <div *ngFor="let flashcardSet of flashcardSets">
+    <flashcard-dashboard-button [flashcardSet]="flashcardSet"></flashcard-dashboard-button>
+  </div>
+</article>

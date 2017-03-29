@@ -1,13 +1,14 @@
 <md-toolbar color="primary">
   <button md-button routerLink="/">
-    <md-icon>Home</md-icon>
+    <md-icon>Główna</md-icon>
     {{title}}
   </button>
   
   <span class="fill-remaining-space"></span>
-  <div fxLayout="row" fxShow="false" fxShow.gt-sm>
-    <button md-button routerLink="/dashboard">Dashboard</button>
-    <button md-button routerLink="/flashcardCategories">Flashcards</button>
+  <div fxLayout="row" fxShow="false" fxShow.gt-sm>    
+    <button *ngFor="let item of menuItems" md-button routerLink="item.link">
+      {{item.caption}}
+    </button>    
   </div>
   
   <button md-button [md-menu-trigger-for]="menu" fxHide="false" fxHide.gt-sm>
@@ -15,8 +16,9 @@
   </button>
 
   <md-menu x-position="before" #menu="mdMenu">    
-    <button md-menu-item routerLink="/dashboard">Dashboard</button>
-    <button md-menu-item routerLink="/products">Flashcards</button>    
-</md-menu>
+    <button *ngFor="let item of menuItems" md-button routerLink="item.link">
+    {{item.caption}}
+    </button>
+  </md-menu>
   
 </md-toolbar>

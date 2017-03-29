@@ -1,18 +1,19 @@
 import { BrowserModule } from '@angular/platform-browser';
-import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
+import { NgModule } from '@angular/core';
 import { HttpModule } from '@angular/http';
 import { MaterialModule } from '@angular/material';
 import  'hammerjs';
-
 import { AppComponent } from './app.component';
-import { DashboardComponent } from './dashboard/dashboard.component';
+
 import { FlashcardCategoriesComponent } from './flashcard-categories/flashcard-categories.component';
 import { FlashcardSetsComponent } from './flashcard-sets/flashcard-sets.component';
 import { FlashcardComponent } from './flashcard/flashcard.component';
 
+import { FlashcardSetService } from './services/flashcard-set.service';
+
 import { CoreModule } from "./core/core.module";
-import { DashboardButtonComponent } from './dashboard/dashboard-button/dashboard-button.component';
+import { DashboardModule } from "./dashboard/dashboard.module";
 
 @NgModule({
   imports: [
@@ -20,17 +21,16 @@ import { DashboardButtonComponent } from './dashboard/dashboard-button/dashboard
     FormsModule,
     HttpModule,
     CoreModule,
+    DashboardModule,
     MaterialModule
   ],
   declarations: [
-    AppComponent,
-    DashboardComponent,
+    AppComponent,    
     FlashcardCategoriesComponent,
     FlashcardSetsComponent,
-    FlashcardComponent,
-    DashboardButtonComponent,    
+    FlashcardComponent,    
   ],  
-  providers: [],
+  providers: [FlashcardSetService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
