@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "flashcardSetId": 31,
+      "name": "zjawiska kluczowe dla homeostazy",
+      "text": "	agregacja i adhezja plytek, powstawaniezakrzepu z fibryny czynnik (IIa)"
+    },
+    {
+      "id": 2,
+      "flashcardSetId": 31,
+      "name": "rodzaje zakrzepow",
+      "text": "	tetniczy i zylny"
+    },
+    {
+      "id": 3,
+      "flashcardSetId": 31,
+      "name": "zakrzep tetniczy",
+      "text": "	przyczyny to zmiany miazdzycowe npzaqwal serca czy choroba wiencowa, glowne znaczenie nadmierna agregacja plytekleczenie lekami antyagrregacyjnymmi"
+    },
+    {
+      "id": 4,
+      "flashcardSetId": 31,
+      "name": "zakrzep zylny",
+      "text": "	przyczyny zastoj zylny, np lotsamolotem, ciaza ucisk struktur anatomicznych choroba zakrzepowo-zatorowa konczyn dolnych, glowna przyczyna aktywacja czynnikow krzepniecia, leczenie antykoagulantami"
+    }
+  ]
+}
