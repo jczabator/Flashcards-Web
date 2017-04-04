@@ -7,9 +7,11 @@ import { DashboardRoutingModule, routedComponents } from "./dashboard-routing.mo
 @NgModule({
   imports:[
     CommonModule,
-    DashboardRoutingModule
+    DashboardRoutingModule    
   ],
-
-  declarations: [DashboardButtonComponent, routedComponents], 
+  declarations: [
+    DashboardButtonComponent, 
+    routedComponents
+  ], 
 })
 export class DashboardModule{}

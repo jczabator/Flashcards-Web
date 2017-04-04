@@ -4,7 +4,10 @@ import { NgModule } from '@angular/core';
 import { HttpModule } from '@angular/http';
 import { MaterialModule } from '@angular/material';
 import  'hammerjs';
+
+import "./core/rxjs-extensions";
 import { AppComponent } from './app.component';
+import { AppRoutingModule } from './app-routing.module';
 
 import { FlashcardCategoriesComponent } from './flashcard-categories/flashcard-categories.component';
 import { FlashcardSetsComponent } from './flashcard-sets/flashcard-sets.component';
@@ -20,6 +23,7 @@ import { DashboardModule } from "./dashboard/dashboard.module";
     BrowserModule,
     FormsModule,
     HttpModule,
+    AppRoutingModule,
     CoreModule,
     DashboardModule,
     MaterialModule

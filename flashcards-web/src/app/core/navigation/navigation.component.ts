@@ -14,13 +14,8 @@ export class NavigationComponent implements OnInit {
 
   ngOnInit() {
     this.menuItems = [
-      { caption: "Daszbord", link: ["/dashboard"]},
+      { caption: "Dashboard", link: ["/dashboard"]},
       { caption: "Fiszki", link:["/flashcard-categories"]}
     ]
-    const abc;
-    const
-    
-    
-
   }
 }

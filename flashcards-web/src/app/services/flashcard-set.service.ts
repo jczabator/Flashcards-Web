@@ -11,16 +11,16 @@ const flashcardSetsUrl = Config.baseUrls.flashcardSets;
 export class FlashcardSetService {
   constructor(private http: Http) { };
 
-  getFlashcardSets(){
+  getFlashcardSets() {    
     return <Observable<FlashcardSet[]>>this.http
       .get(flashcardSetsUrl)
-      .map(response => <FlashcardSet[]>response.json().data)
+      .map((response: Response) => <FlashcardSet[]>response.json().data)
       .catch(this.handleError);
   }
 
-  private handleError(error: Response){
+  private handleError(error: Response) {
     console.log(error);
-    const message = `Error status code ${error.status} at ${error.url}`;
+    const message = "Error status code ${error.status} at ${error.url}";
     return Observable.throw(message);
-  }
+  }  
 }

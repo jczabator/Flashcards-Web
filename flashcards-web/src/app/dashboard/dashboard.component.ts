@@ -14,7 +14,7 @@ import { FlashcardSetService } from "../services/flashcard-set.service";
 })
 export class DashboardComponent implements OnInit {
 
-  flashcardSets: Observable<FlashcardSet[]>
+  flashcardSets: FlashcardSet[]
 
   constructor(
     private route: ActivatedRoute,
@@ -22,7 +22,11 @@ export class DashboardComponent implements OnInit {
     private router: Router) { }
           
   getFlashcardSets(){
-    this.flashcardSets = this.flashcardSetService.getFlashcardSets();      
+    // console.log("Inside dashboard getFlashcardSets");
+    // this.flashcardSets = this.flashcardSetService.getFlashcardSets();
+    // console.log(this.flashcardSets);
+    this.flashcardSetService.getFlashcardSets()
+      .subscribe(flashcardSets => this.flashcardSets = flashcardSets)
   }
 
 
