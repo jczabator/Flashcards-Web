@@ -1,5 +1,6 @@
 import { NgModule } from "@angular/core";
 import { CommonModule } from '@angular/common';
+import { MaterialModule } from '@angular/material';
 
 import { DashboardButtonComponent } from "./shared/dashboard-button/dashboard-button.component";
 import { DashboardRoutingModule, routedComponents } from "./dashboard-routing.module";
@@ -7,7 +8,8 @@ import { DashboardRoutingModule, routedComponents } from "./dashboard-routing.mo
 @NgModule({
   imports:[
     CommonModule,
-    DashboardRoutingModule    
+    DashboardRoutingModule,
+    MaterialModule    
   ],
   declarations: [
     DashboardButtonComponent, 

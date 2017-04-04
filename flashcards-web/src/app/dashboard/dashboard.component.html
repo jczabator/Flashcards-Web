@@ -1,5 +1,7 @@
 <article>
-  <div *ngFor="let flashcardSet of flashcardSets">
-    <flashcard-dashboard-button [flashcardSet]="flashcardSet"></flashcard-dashboard-button>
-  </div>
+  <md-grid-list cols="3">
+    <md-grid-tile *ngFor="let flashcardSet of flashcardSets">
+      <flashcard-dashboard-button [flashcardSet]="flashcardSet"></flashcard-dashboard-button>
+    </md-grid-tile>
+  </md-grid-list>
 </article>
