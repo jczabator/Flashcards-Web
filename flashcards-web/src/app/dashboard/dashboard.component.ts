@@ -21,10 +21,7 @@ export class DashboardComponent implements OnInit {
     private flashcardSetService: FlashcardSetService,
     private router: Router) { }
           
-  getFlashcardSets(){
-    // console.log("Inside dashboard getFlashcardSets");
-    // this.flashcardSets = this.flashcardSetService.getFlashcardSets();
-    // console.log(this.flashcardSets);
+  getFlashcardSets(){    
     this.flashcardSetService.getFlashcardSets()
       .subscribe(flashcardSets => this.flashcardSets = flashcardSets)
   }
