@@ -3,4 +3,6 @@ export class Flashcard{
   flashcardSetId: number;
   name: string;
   text: string;
+  isPictureAnswer: boolean;
+  pictureBlob: string;
 }
