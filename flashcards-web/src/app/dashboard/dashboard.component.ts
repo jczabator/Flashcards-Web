@@ -2,7 +2,6 @@ import { Component, OnInit } from "@angular/core";
 import { ActivatedRoute, Router } from "@angular/router";
 import { Observable } from "rxjs/Observable";
 import { Subscription } from "rxjs/Subscription";
-
 import { FlashcardSet } from "../models/flashcard-set.model";
 import { FlashcardSetService } from "../services/flashcard-set.service";
 

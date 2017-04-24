@@ -1,6 +1,7 @@
 import { NgModule } from "@angular/core";
 import { CommonModule } from '@angular/common';
 import { MaterialModule } from '@angular/material';
+import { FlexLayoutModule } from "@angular/flex-layout";
 
 import { DashboardButtonComponent } from "./shared/dashboard-button/dashboard-button.component";
 import { DashboardRoutingModule, routedComponents } from "./dashboard-routing.module";
@@ -9,7 +10,8 @@ import { DashboardRoutingModule, routedComponents } from "./dashboard-routing.mo
   imports:[
     CommonModule,
     DashboardRoutingModule,
-    MaterialModule    
+    MaterialModule,
+    FlexLayoutModule  
   ],
   declarations: [
     DashboardButtonComponent, 

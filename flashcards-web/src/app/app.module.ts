@@ -3,7 +3,8 @@ import { FormsModule } from '@angular/forms';
 import { NgModule } from '@angular/core';
 import { HttpModule } from '@angular/http';
 import { MaterialModule } from '@angular/material';
-import  'hammerjs';
+import { FlexLayoutModule } from "@angular/flex-layout";
+import 'hammerjs';
 
 import "./core/rxjs-extensions";
 import { AppComponent } from './app.component';
@@ -26,14 +27,15 @@ import { DashboardModule } from "./dashboard/dashboard.module";
     AppRoutingModule,
     CoreModule,
     DashboardModule,
+    FlexLayoutModule,
     MaterialModule
   ],
   declarations: [
-    AppComponent,    
+    AppComponent,
     FlashcardCategoriesComponent,
     FlashcardSetsComponent,
-    FlashcardComponent,    
-  ],  
+    FlashcardComponent,
+  ],
   providers: [FlashcardSetService],
   bootstrap: [AppComponent]
 })

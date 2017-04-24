@@ -1,7 +1,13 @@
 <article>
-  <md-grid-list cols="3">
-    <md-grid-tile *ngFor="let flashcardSet of flashcardSets">
-      <flashcard-dashboard-button [flashcardSet]="flashcardSet"></flashcard-dashboard-button>
-    </md-grid-tile>
-  </md-grid-list>
+  <div>
+    <div class="containerX" fxFlex>
+      <div fxLayoutWrap="wrap" fxLayoutGap="20px" fxLayoutAlign="space-around center">
+        <div *ngFor="let flashcardSet of flashcardSets">
+          <flashcard-dashboard-button [flashcardSet]="flashcardSet"></flashcard-dashboard-button>
+        </div>
+        <div style="width: 370px;height: 370;">
+        </div>
+      </div>
+    </div>
+  </div>
 </article>
