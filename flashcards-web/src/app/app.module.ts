@@ -10,14 +10,16 @@ import "./core/rxjs-extensions";
 import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
 
-import { FlashcardCategoriesComponent } from './flashcard-categories/flashcard-categories.component';
-import { FlashcardSetsComponent } from './flashcard-sets/flashcard-sets.component';
-import { FlashcardComponent } from './flashcard/flashcard.component';
+import { FlashcardCategoriesComponent } from './components/flashcard-categories/flashcard-categories.component';
+import { FlashcardSetsComponent } from './components/flashcard-sets/flashcard-sets.component';
+import { FlashcardComponent } from './components/flashcard/flashcard.component';
 
 import { FlashcardSetService } from './services/flashcard-set.service';
+import { FlashcardService } from "./services/flashcard.service";
 
 import { CoreModule } from "./core/core.module";
-import { DashboardModule } from "./dashboard/dashboard.module";
+import { DashboardModule } from "./components/dashboard/dashboard.module";
+import { QuizModule } from './components/quiz/quiz.module';
 
 @NgModule({
   imports: [
@@ -27,6 +29,7 @@ import { DashboardModule } from "./dashboard/dashboard.module";
     AppRoutingModule,
     CoreModule,
     DashboardModule,
+    QuizModule,
     FlexLayoutModule,
     MaterialModule
   ],
@@ -36,7 +39,10 @@ import { DashboardModule } from "./dashboard/dashboard.module";
     FlashcardSetsComponent,
     FlashcardComponent,
   ],
-  providers: [FlashcardSetService],
+  providers: [
+    FlashcardSetService,
+    FlashcardService
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

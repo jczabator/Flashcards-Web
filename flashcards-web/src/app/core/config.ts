@@ -1,5 +1,6 @@
 export const Config = {
   baseUrls: {
-    flashcardSets: "assets/flashcardSets.json"
+    flashcardSets: "assets/flashcardSets.json",
+    flashcards: "assets/flashcards.json"
   }  
 };

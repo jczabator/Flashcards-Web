@@ -1,0 +1,75 @@
+.fill-remaining-space {
+   /*This fills the remaining space, by using flexbox.  
+  Every toolbar row uses a flexbox row layout. */
+  flex: 1 1 auto;
+}
+
+button{
+  margin: 10px;
+  padding: 10px;
+  width: 500px;
+  height: 500px;
+  white-space: normal;  
+  -webkit-box-shadow: 3px 3px 5px 0px rgba(112,112,112,1);
+  -moz-box-shadow: 3px 3px 5px 0px rgba(112,112,112,1);
+  box-shadow: 3px 3px 5px 0px rgba(112,112,112,1);  
+  font-size: 20px;
+}
+
+/* Medium media query breakpoint */
+@media(max-width: 1280px){
+  button{
+    margin: 9px;
+    padding: 9px;
+    width: 500px;
+    height: 500px;
+    line-height: 18px;
+    font-size: 12px;
+  }
+}
+
+/* Small media query breakpoint */  
+@media(max-width: 840px){
+  button{
+    margin: 7px;
+    padding: 7px;
+    width: 400px;
+    height: 400px;
+    line-height: 18px;
+    font-size: 16px;
+  }
+}
+
+@media(max-width: 600px){
+  button{
+    margin: 7px;
+    padding: 7px;
+    width: 350px;
+    height: 350px;
+    line-height: 18px;
+    font-size: 16px;
+  }
+}
+
+/* Extra small media query breakpoint*/
+@media(max-width: 480px){
+  button{
+    margin: 5px;
+    padding: 5px;
+    width: 300px;
+    height: 300px;
+    line-height: 18px;
+    font-size: 14px;
+  }
+}
+
+@media(max-width: 320px){
+  button{
+    margin: 4px;
+    padding: 4px;
+    width: 200px;
+    height: 200px;
+    line-height: 18px;
+    font-size: 12px;
+  }
+}

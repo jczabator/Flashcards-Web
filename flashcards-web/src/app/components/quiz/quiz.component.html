@@ -1,0 +1,44 @@
+<article>
+  <div *ngIf="isAllAnswered === false">    
+    <div class="containerX" fxFlex>
+      <div fxLayout="row" fxLayout.xs="column" fxLayoutWrap="wrap" fxLayoutGap="10px" fxLayoutAlign="space-around center">
+        <div>
+          <div *ngIf="textVisible === false">
+            <quiz-flashcard-button [text]="currentFlashcard.name" [backgroundColor]="'#1DE9B6'" (click)="toggleFlashcardText()">
+            </quiz-flashcard-button>
+          </div>
+
+          <div *ngIf="textVisible === true">
+            <quiz-flashcard-button [text]="currentFlashcard.text" [backgroundColor]="'blue'" (click)="toggleFlashcardText()">
+            </quiz-flashcard-button>
+          </div>
+        </div>
+        <div fxLayout="row" fxLayout.sm="column"> 
+          <div fxLayout="column">
+            <div class="check" layout="row" layout-align="center center" flex="30">              
+              <md-checkbox (click)="toggleRandomFlashcards()">Losowe fiszki</md-checkbox>
+            </div>
+
+            <quiz-button [text]="Learned" (click)="flashcardLearned()">
+            </quiz-button>
+          </div>
+          <div fxLayout="column">
+            <quiz-next-button [text]="Next" (click)="getNextFlashcard()">
+            </quiz-next-button>
+
+            <quiz-end-button [text]="End" (click)="goBackToDashboard()">
+            </quiz-end-button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div *ngIf="isAllAnswered === true">
+    <div class="containerX" fxFlex>
+      <div fxLayoutWrap="wrap" fxLayoutGap="20px" fxLayoutAlign="space-around center">
+        <quiz-end-button [text]="End" (click)="goBackToDashboard()">
+        </quiz-end-button>
+      </div>
+    </div>
+  </div>
+</article>

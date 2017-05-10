@@ -2,7 +2,8 @@
   <div>
     <div class="containerX" fxFlex>
       <div fxLayoutWrap="wrap" fxLayoutGap="20px" fxLayoutAlign="space-around center">
-        <div *ngFor="let flashcardSet of flashcardSets">
+        <div  *ngFor="let flashcardSet of flashcardSets"
+          (click)="goToQuiz(flashcardSet)">
           <flashcard-dashboard-button [flashcardSet]="flashcardSet"></flashcard-dashboard-button>
         </div>
         <div style="width: 370px;height: 370;">

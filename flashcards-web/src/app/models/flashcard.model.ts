@@ -5,4 +5,5 @@ export class Flashcard{
   text: string;
   isPictureAnswer: boolean;
   pictureBlob: string;
+  isLearned: boolean;
 }

@@ -2,8 +2,9 @@ import { Component, OnInit } from "@angular/core";
 import { ActivatedRoute, Router } from "@angular/router";
 import { Observable } from "rxjs/Observable";
 import { Subscription } from "rxjs/Subscription";
-import { FlashcardSet } from "../models/flashcard-set.model";
-import { FlashcardSetService } from "../services/flashcard-set.service";
+
+import { FlashcardSet } from "../../models/flashcard-set.model";
+import { FlashcardSetService } from "../../services/flashcard-set.service";
 
 @Component({
   moduleId: module.id,
@@ -13,7 +14,7 @@ import { FlashcardSetService } from "../services/flashcard-set.service";
 })
 export class DashboardComponent implements OnInit {
 
-  flashcardSets: FlashcardSet[]
+  flashcardSets: FlashcardSet[];
 
   constructor(
     private route: ActivatedRoute,
@@ -22,9 +23,13 @@ export class DashboardComponent implements OnInit {
           
   getFlashcardSets(){    
     this.flashcardSetService.getFlashcardSets()
-      .subscribe(flashcardSets => this.flashcardSets = flashcardSets)
+      .subscribe(flashcardSets => this.flashcardSets = flashcardSets);    
   }
 
+  goToQuiz(flashcardSet: FlashcardSet){
+    let link = ['/quiz', flashcardSet.id];
+    this.router.navigate(link);
+  }
 
   ngOnInit() {
     this.getFlashcardSets();
