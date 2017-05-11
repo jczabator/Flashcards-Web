@@ -1,7 +1,8 @@
 import { Component, OnInit } from '@angular/core';
+import { ActivatedRoute, Router } from "@angular/router";
 
 class MenuItem {
-  constructor(public caption: string, public link: any[]){ }
+  constructor(public caption: string, public link: any[]) { }
 }
 
 @Component({
@@ -12,12 +13,19 @@ class MenuItem {
 export class NavigationComponent implements OnInit {
   menuItems: MenuItem[];
 
+  constructor(private router: Router) { }
+
   ngOnInit() {
     this.menuItems = [
-      { caption: "Start", link: ["/quiz"]},
-      { caption: "Kategorie", link: ["/flashcard-categories"]},
-      { caption: "Quizy", link: ["/flashcard-sets"]},
-      { caption: "Fiszki", link:["/flashcards"]}
+      { caption: "Kategorie", link: ["/flashcard-categories"] },
+      { caption: "Quizy", link: ["/flashcard-sets"] },
+      { caption: "Fiszki", link: ["/flashcards"] }
     ]
+  }
+
+  navigateToDashboard() {    
+    const link = ['/dashboard'];
+    console.log(link);
+    this.router.navigate(link);
   }
 }

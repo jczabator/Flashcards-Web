@@ -63,12 +63,13 @@ button{
   }
 }
 
+/* TODO: try to move to columns for 320px*/
 @media(max-width: 320px){
   button{
     margin: 4px;
     padding: 4px;
     width: 200px;
-    height: 200px;
+    height: 300px;
     line-height: 18px;
     font-size: 12px;
   }

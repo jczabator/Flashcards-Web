@@ -12,7 +12,7 @@
   -webkit-box-shadow: 3px 3px 5px 0px rgba(112,112,112,1);
   -moz-box-shadow: 3px 3px 5px 0px rgba(112,112,112,1);
   box-shadow: 3px 3px 5px 0px rgba(112,112,112,1);
-  background-color: #00E5FF;
+  background-color: #76FF03;
 }
 
 button{
@@ -38,9 +38,8 @@ button{
   
   .check{
     margin: 9px;
-    padding: 0px;
-    width: 150px;
-    height: 150px;    
+    padding: 63px 14px;
+    font-size: 12px;
   }
 }
 
@@ -55,10 +54,9 @@ button{
   }
 
   .check{
-    margin: 9px;
-    padding: 0px;
-    width: 100px;
-    height: 100px;
+    margin: 7px;
+    padding: 40px 3px;
+    font-size: 11px;
   }
 }
 
@@ -66,27 +64,35 @@ button{
   button{
     margin: 7px;
     padding: 7px;
-    width: 70px;
-    height: 70px;
+    width: 90px;
+    height: 90px;
     line-height: 18px;
-    font-size: 11px;
+    font-size: 10px;
   }
 
   .check{
-    margin: 9px;
+    margin: 7px;
     padding: 0px;
-    width: 70px;
-    height: 70px;
+    width: 90px;
+    height: 90px;
+    font-size: 10px;
   }
 }
 
 @media(max-width: 480px){
   button{
     margin: 5px;
-    padding: 5px;
-    width: 100px;
-    height: 100px;
-    line-height: 18px;
+    padding: 0px;
+    width: 50px;
+    height: 50px;
+    font-size: 9px;
+  }
+
+  .check{
+    margin: 5px;
+    padding: 0px 10px;
+    width: 50px;
+    height: 50px;
     font-size: 9px;
   }
 }
@@ -95,9 +101,17 @@ button{
   button{
     margin: 4px;
     padding: 4px;
-    width: 80px;
-    height: 80px;
+    width: 35px;
+    height: 35px;
     line-height: 18px;
+    font-size: 7px;
+  }
+
+  .check{
+    margin: 5px;
+    padding: 10px;
+    width: 35px;
+    height: 35px;
     font-size: 7px;
   }
 }

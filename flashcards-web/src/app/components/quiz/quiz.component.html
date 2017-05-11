@@ -9,12 +9,12 @@
           </div>
 
           <div *ngIf="textVisible === true">
-            <quiz-flashcard-button [text]="currentFlashcard.text" [backgroundColor]="'blue'" (click)="toggleFlashcardText()">
+            <quiz-flashcard-button [text]="currentFlashcard.text" [backgroundColor]="'#18FFFF'" (click)="toggleFlashcardText()">
             </quiz-flashcard-button>
           </div>
         </div>
-        <div fxLayout="row" fxLayout.sm="column"> 
-          <div fxLayout="column">
+        <div fxLayout="row" fxLayout.sm="column" fxLayout.xs="row"> 
+          <div fxLayout="column" fxLayout.xs="row">
             <div class="check" layout="row" layout-align="center center" flex="30">              
               <md-checkbox (click)="toggleRandomFlashcards()">Losowe fiszki</md-checkbox>
             </div>
@@ -22,7 +22,7 @@
             <quiz-button [text]="Learned" (click)="flashcardLearned()">
             </quiz-button>
           </div>
-          <div fxLayout="column">
+          <div fxLayout="column" fxLayout.xs="row">
             <quiz-next-button [text]="Next" (click)="getNextFlashcard()">
             </quiz-next-button>
 
