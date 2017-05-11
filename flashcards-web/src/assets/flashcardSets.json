@@ -58,7 +58,7 @@
     {
       "id": 12,
       "flashcardCategoryId": 1,
-      "name": "Drugie"
+      "name": "Leki na OUN"
     },
     {
       "id": 13,
@@ -68,15 +68,10 @@
     {
       "id": 14,
       "flashcardCategoryId": 1,
-      "name": "Leki na OUN"
-    },
-    {
-      "id": 15,
-      "flashcardCategoryId": 1,
       "name": "Sterydy"
     },
     {
-      "id": 16,
+      "id": 15,
       "flashcardCategoryId": 1,
       "name": "Autonomiczny 2 – Współczulny część 1"
     }
