@@ -3,7 +3,6 @@ import { CommonModule } from '@angular/common';
 import { MaterialModule } from '@angular/material';
 import { FlexLayoutModule } from "@angular/flex-layout";
 
-import { DashboardButtonComponent } from ".././shared/dashboard-button/dashboard-button.component";
 import { QuizRoutingModule, routedComponents } from "./quiz-routing.module";
 
 import { QuizService } from "./service/quiz.service";

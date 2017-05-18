@@ -2,11 +2,11 @@
   "data": [
     {
       "id": 1,
-      "name": "Kategoria 1"
+      "name": "Medycyna"
     },
     {
       "id": 2,
-      "name": "Kategoria 2"
+      "name": "Programowanie"
     }
   ]
 }

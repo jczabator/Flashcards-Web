@@ -24,8 +24,11 @@ export class NavigationComponent implements OnInit {
   }
 
   navigateToDashboard() {    
-    const link = ['/dashboard'];
-    console.log(link);
+    const link = ['/dashboard'];    
+    this.router.navigate(link);
+  }
+
+  goTo(link){
     this.router.navigate(link);
   }
 }

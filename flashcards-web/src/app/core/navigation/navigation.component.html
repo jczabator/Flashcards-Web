@@ -6,7 +6,7 @@
   
   <span class="fill-remaining-space"></span>
   <div fxLayout="row" fxShow="false" fxShow.gt-sm>    
-    <button *ngFor="let item of menuItems" md-button routerLink="item.link">
+    <button *ngFor="let item of menuItems" md-button (click)="goTo(item.link)">
       {{item.caption}}
     </button>    
   </div>
@@ -16,7 +16,7 @@
   </button>
 
   <md-menu x-position="before" #menu="mdMenu">    
-    <button *ngFor="let item of menuItems" md-button routerLink="item.link">
+    <button *ngFor="let item of menuItems" md-button (click)="goTo(item.link)">
     {{item.caption}}
     </button>
   </md-menu>

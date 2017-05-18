@@ -15,6 +15,10 @@ const routes: Routes = [
   { 
     path: "quiz",
     loadChildren: "app/components/quiz/quiz.module#QuizModule"
+  },
+  {
+    path: "flashcard-categories",
+    loadChildren: "app/components/flashcard-categories/flashcard-categories.module#FlashcardCategoriesModule"
   }
 ]
 

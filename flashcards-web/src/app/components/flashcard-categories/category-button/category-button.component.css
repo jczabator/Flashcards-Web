@@ -1,0 +1,60 @@
+.fill-remaining-space {
+   /*This fills the remaining space, by using flexbox.  
+  Every toolbar row uses a flexbox row layout. */
+  flex: 1 1 auto;
+}
+
+button{
+  margin: 10px;
+  padding: 10px;
+  width: 350px;
+  height: 350px;
+  white-space: normal;  
+  -webkit-box-shadow: 3px 3px 5px 0px rgba(112,112,112,1);
+  -moz-box-shadow: 3px 3px 5px 0px rgba(112,112,112,1);
+  box-shadow: 3px 3px 5px 0px rgba(112,112,112,1);
+}
+
+@media(max-width: 1024px){
+  button{
+    margin: 9px;
+    padding: 9px;
+    width: 250px;
+    height: 250px;
+    line-height: 18px;
+    font-size: 12px;
+  }
+}
+
+@media(max-width: 839px){
+  button{
+    margin: 7px;
+    padding: 7px;
+    width: 200px;
+    height: 200px;
+    line-height: 18px;
+    font-size: 11px;
+  }
+}
+
+@media(max-width: 480px){
+  button{
+    margin: 5px;
+    padding: 5px;
+    width: 100px;
+    height: 100px;
+    line-height: 18px;
+    font-size: 9px;
+  }
+}
+
+@media(max-width: 320px){
+  button{
+    margin: 4px;
+    padding: 4px;
+    width: 80px;
+    height: 80px;
+    line-height: 18px;
+    font-size: 7px;
+  }
+}

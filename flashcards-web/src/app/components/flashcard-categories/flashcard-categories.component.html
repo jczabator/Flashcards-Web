@@ -1,3 +1,11 @@
-<p>
-  flashcard-categories works!
-</p>
+<article>
+  <div>
+    <div class="containerX" fxFlex>
+      <div fxLayoutWrap="wrap" fxLayoutGap="20px" fxLayoutAlign="space-around center">
+        <div  *ngFor="let category of categories">
+          <category-button [category]="category"></category-button>
+        </div>       
+      </div>
+    </div>
+  </div>
+</article>
