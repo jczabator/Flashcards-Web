@@ -8738,6 +8738,573 @@
       "isPictureAnswer": false,
       "pictureBlob": "",
       "isLearned": false
+    },
+    {
+      "id": 972,
+      "flashcardSetId": 16,
+      "name": "KOANALGETYKI",
+      "text": ")\tLeki przeciwdepresyjne1.\tAmitryptylina; doksepina; wenlafaksyna; duloksetyna;paroksetynab)\tLeki p.padaczkowe jako koanalg2.\tGabapentyna, pregabalina, karbamazepina, kw walproinianowy, lamotryginac)\tLeki miorelaksacyjne1.\tBaklofen, tyzanidyna, tetrazepam, flupirtyna",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 973,
+      "flashcardSetId": 16,
+      "name": "INFORMACJE leczenie bólu",
+      "text": "oprawa skuteczności analgezji paracetamol + NLPZMetamizol szczególnie skuteczny w bólach skurczowych40-60% skuteczn morfiny; polecany gdy objawy nieporządane zw z opioidamiPrzy opioidach profilaktyka przeciwzaparciowaGdy przechodzimy na 2-gi szczebel to kontynuujemy podawanie 1 szczebla",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 974,
+      "flashcardSetId": 17,
+      "name": "Leki fibrynolityczne kiedy?",
+      "text": " zawale serca;  zatorze tętnicy płucnej, zakrzepicy żył głębokich, zakrzepicy i zatorach tętnic obwodowych",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 975,
+      "flashcardSetId": 17,
+      "name": "p/wskazania do p.zakrzepowych i fibrynolityków: ",
+      "text": "skaza krwotoczna, choroba wrzodowa, udary, tętniak aorty, nadcisn> 200/110, czynne krwawienie z narz wew",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 976,
+      "flashcardSetId": 17,
+      "name": "Leki fibrynolit Działające posrednio:",
+      "text": "I gen; Iigen; IIIgen",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 977,
+      "flashcardSetId": 17,
+      "name": "Leki fibrynolityczne I generacji   ",
+      "text": "treptokinaza – tworzy kompleks z plazminogenem, ułatwia jego aktywację; dawkowanie = 1,5mln U we wlewie przez 30-60 min; Nie podajemy osobom wcześniej leczonym streptokinazą lub po infekcji paciorkowcowej; rekomendowana u osób starszych",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 978,
+      "flashcardSetId": 17,
+      "name": "leki fibrynol II generacji",
+      "text": "LTEPLAZA =Rekombinowany aktywator plazminogenu (rt-PA, alteplaza = bolus 15mg iv oraz wlew 0,75mg /kgmc przez 30 min)",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 979,
+      "flashcardSetId": 17,
+      "name": "III generacji ( większe powinowactwo do plazminogenu, plazmina trawi wyłącznie skrzeplinę, zmniejszenie ryzyka powikłań krwotocznych i większa efektywność leczenia)",
+      "text": ".\tReteplaza\t2x10U w odstępie 30 min2.\tLanoteplaza3.\tTenekteplaza\tdawka uzależniona od masy ciała",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 980,
+      "flashcardSetId": 17,
+      "name": "ZATOROWOŚĆ PŁUCNA leczenie \t",
+      "text": "1) alteplaza 2)streptokinaza  3) urokinaza",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 981,
+      "flashcardSetId": 17,
+      "name": "Leczenie niemasywnej zatorowości płucnaj\t",
+      "text": "1) heparyny drobnocząsteczkowe lub frakcjonowane we wlewie 5-10 dni 2xd",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 982,
+      "flashcardSetId": 17,
+      "name": "APROTYNINA\t",
+      "text": "nosi objawy przedawkowania fibrynolityków",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 983,
+      "flashcardSetId": 17,
+      "name": "Leki zwiększające krzepliwość krwii Wskazania:\t",
+      "text": "DIC, krwawienia poporodowe i inne, ostre zap trzustki",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 984,
+      "flashcardSetId": 17,
+      "name": "Leki zwiększające krzepliwość krwii",
+      "text": ".\tAprotynina – hamuje powstawanie i działanie plazminy i innych proteaz; = TRASCOLAN amp 500 000jm; 2.\t Tissucol kit( dwa składniki do wymieszania aby stworzyć klej tkankowy aprotynina/fibrynogen/plazmina +trombina)3.\tKw E-aminokapronowy EACA = inhibitor plazminy, urokinazy,streptokinazy, w krwawieniach po zabiegach stomatologicznych; 200-350 mg/kmc/d w 4-6dawk",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 985,
+      "flashcardSetId": 17,
+      "name": "Leki przyspieszające powstawanie skrzepu",
+      "text": "it B12; fitomediation; etamsylat; dobesylan wapnia",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 986,
+      "flashcardSetId": 17,
+      "name": "Witamina B12 –",
+      "text": "Vitaminum B12 WZF",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 987,
+      "flashcardSetId": 17,
+      "name": "Fitomediation,witK, =",
+      "text": "Vitacon 10mg ; kofaktor karboksylacji kw glut czynnikow krzepniecia",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 988,
+      "flashcardSetId": 17,
+      "name": "Etamsylat=",
+      "text": "Cyclonamina ; 250-500mg 1h przed zabiegiem, później podczas i po zabiegu co 4-6h, tabl, amp im lub iv; skraca czas krwawienia uszczelniając śródbłonek, do powierzchownych krwawień",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 989,
+      "flashcardSetId": 17,
+      "name": "Dobesylan wapnia = ",
+      "text": "mniejsza przepuszcz nacz włos, w mikroangopatiach cukrz, retinopatiach, p.o 0,5 -1,0g/d podczas posiłku",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 990,
+      "flashcardSetId": 17,
+      "name": "Lek przeciwkrzepliwy",
+      "text": "eparyna –lioton Pomocniczo w chorobach żył powierzchownych, krwiakach podskórnych, stłuczeniach, obrzękachRp. Lioton 1000 j.m/ml a’30gżel  1op.S. 1-3 razy dziennie smarować stłuczenia, ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 991,
+      "flashcardSetId": 17,
+      "name": "Syntetyczne Flawonoidy\t",
+      "text": "olegliwości spowodowane odleżynami, zaburzenia krążenia żylnego",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 992,
+      "flashcardSetId": 17,
+      "name": "Syntetyczne Flawonoidy lek",
+      "text": "iosmina   Diosminex",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 993,
+      "flashcardSetId": 17,
+      "name": "Leki stosowane w zaburzeniach krążenia mózgowego",
+      "text": ".\tNicergolina – Cavinton; rozszerza nacz mózgowe2.\tFlunaryzyna= bloker Ca, pochodna piperazyny, nie wpływa na HR,RR, i siłę skurczu m.serc, zmniejsza pobudliwość aparatu przedsionkowego; FLUNARIZINUM3.\tGinkobiloba4.\tLeki nootropowe= Nootropil",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 994,
+      "flashcardSetId": 17,
+      "name": "Leki w niedokrwistościach",
+      "text": ".Żelazo – Cosmoferr i.v mc x 0,24x (docelowe stęż Hbg – aktualne stęż) + 500mg czyli 100-200mg 2-3razy w tyg; w celu szybkiego wyrownania 1g jednorazowo2.  wit B12 i kw foliowy",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 995,
+      "flashcardSetId": 17,
+      "name": "Płyny/leki krwoizastępcze",
+      "text": ".\tKoncentrat krwinek czerwonych; konc płytkowy2.\tKoncentrat granulocytarny3.\tAlbuminy 5% (oparzenia, wstrząs oligowol,żółtaczka noworodków) lub 20%(obrzęk mózgu)4.\tDextran = zwiększa ciśnienie osm, zw obj osocza,działap/zakrz NIE w skazie krwotocznej i ciężkiej niew serca5.\tSkrobia hydroksyetylowana6.\tGelafusin=przetwory żelatyny7.\tRr elektrolitów i 15%glukozy",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 996,
+      "flashcardSetId": 17,
+      "name": "Przewlekłe niedokrwienie kończyn dolnych(upośledzony przepływ miażdzyca- niedotlenienie kończyn-chromanie przystankowe)",
+      "text": ".metyloksantyny = a) aminophillina b)pentoksyfilina( oksypentylina) Pentohexal2. Buflomedil = rozszerza nacz krw+ ASA/ heparyny drobnocząsteczkowe/niefrakcjonowane/",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 997,
+      "flashcardSetId": 17,
+      "name": "Leczenieprzewlekłej niewydolności żylnej",
+      "text": ".\tEscyny = Aescin2.\tKumaryny3.\tEskuliny = Aesculan4.\tOkserutyna = Venoruton5.\tDiosmina i hesperydyna :DiosminexMiejscowo = heparyny : Lioton 1000;",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 998,
+      "flashcardSetId": 18,
+      "name": "NADCIŚNIENIE PŁUCNE Leki",
+      "text": "Ca-blok; leki moczopędne lekip/krzepliwe; analogi PGI2; Antag rez endotelinowych, inhibitory fosfodiest 5;  agonista rec dlaprostaglandyny; bezposredni stymulator cykl guanylowej",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 999,
+      "flashcardSetId": 18,
+      "name": "Ca-blokery\t",
+      "text": "mlodypina nifedypina o przedłużonym działaniu 240mg/d, dilitiazem – Amlozek Rp. Amlozek 0,005 in tabulettis 1op. S. 1x1) NIE MOZNA WERAPAMILU!!!",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1000,
+      "flashcardSetId": 18,
+      "name": "Leki moczopędne Pętlowe \t",
+      "text": "urosemid ,Torasemid – Trifas COR; Trifas 1)a.\tTiazydopodobne (Indapamid – Diuresin SR)b.\tOszczędzające K+(Spironolakton – Spironol; Eplerenon – Inspra 25, 50)",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1001,
+      "flashcardSetId": 18,
+      "name": "Leki p/krzepliwe \t",
+      "text": "arfaryna – Warfin pod kontrolą INR)",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1002,
+      "flashcardSetId": 18,
+      "name": "Leki wpływające na tt. Płucne\t",
+      "text": "nalogi PGI2; Antag rez endotelinowych, inhibitory fosfodiest 5;  agonista rec dlaprostaglandyny; bezposredni stymulator cykl guanylowej",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1003,
+      "flashcardSetId": 18,
+      "name": "Analogi PGI2\t",
+      "text": "poprostenol – Veletri;\ttreprostinil;\t Iloprost – Ventavis; Ilomedin 20\tberaprost)",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1004,
+      "flashcardSetId": 18,
+      "name": "Antagoniści rec. Endotelinowych \t",
+      "text": "osentan – BOPAHO; sitaxsentan; ambrisentan; macitentan)",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1005,
+      "flashcardSetId": 18,
+      "name": "inhibitory fosfodiesterazy 5\t",
+      "text": "ildenafil)",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1006,
+      "flashcardSetId": 18,
+      "name": "Agonista rec dla prostaglandyny\t",
+      "text": "elexipag)",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1007,
+      "flashcardSetId": 18,
+      "name": "Bezpośredni stymulator cykl guanyl \t",
+      "text": "iociguat)",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1008,
+      "flashcardSetId": 19,
+      "name": "jedyny dopuszczony w ciąży lek hipolipemizujący\t",
+      "text": "OLESEWELAM",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1009,
+      "flashcardSetId": 19,
+      "name": "Stosowanie statyn\t",
+      "text": ") podwyższony LDL = statyna, jeżeli nie skuteczna statyna+ezetymib 2)aterogenna dyslipidemia duże Tgniskie HDL = fibrat lub fibrat +statynaŁączenie fibrat i statyna =fibrat (fenoofibrat )rano; statyna(simwastatyna)wieczorem ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1010,
+      "flashcardSetId": 19,
+      "name": "Farmakoterapia dyslipidemii, ",
+      "text": ".\tStatyny2.\tFibraty3.\tKwas nikotynowy4.\tEzetymib5.\tŻywice jonowymienne6.\tOleje rybne",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1011,
+      "flashcardSetId": 19,
+      "name": "WSKAZANIA:",
+      "text": "CHNS, OZW, po udarach, w cukrzycy, choroby naczyń obwodowych",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1012,
+      "flashcardSetId": 19,
+      "name": "STATYNY:",
+      "text": "obniżają LDL (zwiększony katabolizm LDL, zmniejszona synteza w wątrobie), obniżają TG, podnoszą HDL, wskazane przy SCORE > 5%,  inhibitory redukazy hydroksymetylo glutaryloCoA; spadek wewkom stez cholest i wzrost rec dla LDL; zwiekszony wychwyt i usuwanie, nasilają działanie doustnych koagulantów; Stosowane głownie III generacja (syntetyczne) – przeciwwskazania: są teratogenne, ciąża laktacja ostre choroby wątroby",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1013,
+      "flashcardSetId": 19,
+      "name": "Statyny leki",
+      "text": "tatyny I gen : lowastatyna, parwastatynaIigen : simwastatynaIII gen: atrowastatyna, rosuwastatyna, fluwastatyna,pitawastatyna",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1014,
+      "flashcardSetId": 19,
+      "name": "Atorwastatyna – ",
+      "text": "lipofilna, wskazana w niewydolności nerek,  ( 20-30mg dziennie Preparat Atoris 30mg) Atoris NAJBEZPIECZNIEJSZA U PACJENTÓW Z USZKODZONYMI NERKAMI",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1015,
+      "flashcardSetId": 19,
+      "name": "Rosuwastatyna  -",
+      "text": "hydrofilna, wskazana w niewydolności wątroby, nie podawać przy GFR < 30ml/min/1,73m^2, najsilniejsza, spośród statyn wskazana dla pacjentów urazowych, mniejsze działania niepożądane ze strony mięśni i OUN, (5- 10mg dziennie, preparat Rosucard 10mg) Rosucard  BEZPIECZNIEJSZA DLA WĄTROBY",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1016,
+      "flashcardSetId": 19,
+      "name": "Fluwastatyna ",
+      "text": " wyboru u osob po transplantacji narządów",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1017,
+      "flashcardSetId": 19,
+      "name": "STATYNY Z INNYMI LEKAMI",
+      "text": ".\tSimwastatyna+ ezetymib2.\tLowastatyna i kwnikotynowy3.\tAtrowastatyna i amlodypina( nadcisnienie i hiperlipidemia)4.\tSimwastatyna i kw nikotynowy5.\tRosuvastatyna i walsartan = Valarox6.\tTRIVERAN = rosuwartatyna i amlodypina i perindopril",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1018,
+      "flashcardSetId": 19,
+      "name": "FIBRATY inf:",
+      "text": "podajemy rano, w czasie posiłku (na wysokie TG), nie mają wpływu na LDL, wskazane u cukrzyków, obniżają TG i podwyższają HDL; Obciążają i nerki i wątrobę,",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1019,
+      "flashcardSetId": 19,
+      "name": "Fibraty leki",
+      "text": " fenofibrat- Grofibrat; Ezetymib - ezetrol",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1020,
+      "flashcardSetId": 19,
+      "name": "Fenofibrat –",
+      "text": " Grofibrat; u cukrzykówa.\t300-400mg/ dobę preparat Grofibrat 3x dziennie  b.\tpreparat dawkowany raz dziennie Grofibrat 200",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1021,
+      "flashcardSetId": 19,
+      "name": "EZETYMIB- ",
+      "text": "ZETROL hamuje transferazę cholesterolową w j cienkim;  częstow lecz skojarzonym ze statynami bo zwiększa produkcję cholesterolu w wątrobie; a.\thamowanie wchłaniania LDL, preparat EZETROL 10mg 1 x dziennie",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1022,
+      "flashcardSetId": 19,
+      "name": "ŻYWICE JONOWYMIENNE inf",
+      "text": " wypadku nietolerancji statyn lub jako dodatek",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1023,
+      "flashcardSetId": 19,
+      "name": "żywice jonowymienne prep\t",
+      "text": "koleselwam; cholestyramina",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1024,
+      "flashcardSetId": 19,
+      "name": "Kolesewelam –",
+      "text": "Cholestagel ( nie ulega wchl w p.pok, wiaże kw żółciowe hamuje reabsorbcje)a.\t3,75 g 1 x dziennie – jedyny hipolipemizujący dopuszczony do stosowania w ciąży",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1025,
+      "flashcardSetId": 19,
+      "name": "Cholestyramina  ",
+      "text": "g 2xd",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1026,
+      "flashcardSetId": 19,
+      "name": "Oleje rybne ",
+      "text": "mniejszaja stęż i cholesterolu i TG; sklonność do krwawień, oddziałowują z ASA i lekamip.zapalnymi",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1027,
+      "flashcardSetId": 19,
+      "name": "DHA i EPA (oleje rybne)\t",
+      "text": "omacor; ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1028,
+      "flashcardSetId": 19,
+      "name": "Omacor \t",
+      "text": " x dziennie 1kaps – zawiera 1g kwasów omega 3",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1029,
+      "flashcardSetId": 20,
+      "name": "DNA MOCZANOWA; LEKI: \t",
+      "text": "NLPZ, kolchicyna, GKS, Kanakinumab, leki zw wyd kw mocz Probenecyd, Losartan, fenobarbital,  hamowanie synt ALLOPURYNOL, FEBUKSOSTAT, PEGLOTYKAZA, razem z allopurinolem – ZURAMPIC",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1030,
+      "flashcardSetId": 20,
+      "name": "Leki w  NAPADZIE dnymoczanowej",
+      "text": "prawie każdy krótkodziałający NLPZ w odpowiednio dużej dawce może być skuteczny- kolchicynę – alkaloid stosowany w ostrych napadach dny moczanowej, odstawiamy przy  wystąpieniu objawów nieporządanych tj kurczowy ból brzucha, biegunka,nudnosci, wymioty, profilaktyka przed ostrym napadem dny podczas leczenia przewlekłego lekami obniżającymi stęż kw mocz- GKS dostawowo lub ogólnoustrojowo- jeżeli pacjent ma p/wskazania do kolchicyny i NLPZLudzkie p/ciała monoklonalne- u osób które nie mogą NLPZ i kolchicyny = KANAKINUMAB( u osób z częstymi napadami; ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1031,
+      "flashcardSetId": 20,
+      "name": "Leczenie przewlekłe hiperurykemii (tych leków NIE PODCZAS NAGŁEGO ATAKU)",
+      "text": "mniejszenie stęz kw moczowego w surowicy przez( 4-6 tyg po wygaśnięciu ostrej fazy)a)\tZwiekszenie wydalania z moczem LEKI URYKOZURYCZNE= PROBENECYD, Losartan, fenobarbital( dobre efekty w połączeniu z allopurynolem)b)\tHamowanie syntezy kw moczowego ALLOPURYNOL 50-800mg/24h; FEBUKSOSTAT( u osób które nie tolerują allopurinolu)c)\tZwiększenie rozkładu kw mocczowego",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1032,
+      "flashcardSetId": 20,
+      "name": "CHOROBY NACZYŃ OBWODOWYCH( chromanie przystankowe) leki",
+      "text": "1. metyloksantyny ( PENTOKSYFILINA)\r\n2) buflomedil(Zwykle 300–600 mg w dwóch podzielonych dawkach.)3)\t cilostazol4)\t analogi prostacykliny",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1033,
+      "flashcardSetId": 21,
+      "name": "PĘCHERZ NADREAKTYWNY INF",
+      "text": "reparaty antymuskarynowe wykorzystuje się obecnie jako leki pierwszego wyboru w terapii OAB. Mechanizm ich działania polega na zmniejszaniu uczucia parcia i normalizacji funkcji wypieracza, co prowadzi do zwiększenia objętości pęcherza moczowego. Należy jednak pamiętać, że istotnym ograniczeniem w ich stosowaniu są objawy niepożądane – głównie zaparcia i suchość w jamie ustnej, ale również zaburzenia widzenia, senność czy upośledzenie funkcji poznawczych ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1034,
+      "flashcardSetId": 21,
+      "name": "LECZENIE PĘCHERZA NADREAKTYWNEGO",
+      "text": ".\tPrep antymuskarynowe",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
     }
   ]
 }

@@ -29,4 +29,8 @@ export class FlashcardCategoriesComponent implements OnInit {
     this.getFlashcardCategories();
   }
 
+  goToFlashcardSets(flashcardCategory: FlashcardCategory){
+    let link = ['/flashcard-sets', flashcardCategory.id];    
+    this.router.navigate(link);
+  }
 }

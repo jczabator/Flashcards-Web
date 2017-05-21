@@ -7,7 +7,7 @@
     },
     {
       "id": 2,
-      "flashcardCategoryId": 2,
+      "flashcardCategoryId": 1,
       "name": "Antyarytmiczne"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "id": 4,
-      "flashcardCategoryId": 2,
+      "flashcardCategoryId": 1,
       "name": "Azotany"
     },
     {
@@ -74,6 +74,36 @@
       "id": 15,
       "flashcardCategoryId": 1,
       "name": "Autonomiczny 2 – Współczulny część 1"
+    },
+    {
+      "id": 16,
+      "flashcardCategoryId": 2,
+      "name": "neuroleptyki, leczenie bólu "
+    },
+    {
+      "id": 17,
+      "flashcardCategoryId": 2,
+      "name": "Leczenie Hormonalne"
+    },
+    {
+      "id": 18,
+      "flashcardCategoryId": 2,
+      "name": "płucne, leki fibrynolityczne i leki przyspieszające krzepnięcie"
+    },
+    {
+      "id": 19,
+      "flashcardCategoryId": 2,
+      "name": "Hiperlipidemia, statyny fibraty"
+    },
+    {
+      "id": 20,
+      "flashcardCategoryId": 2,
+      "name": "leczenie dny moczanowej, immunoterapia antygenem, farmakoterapia chorób naczyń obwodowych"
+    },
+    {
+      "id": 21,
+      "flashcardCategoryId": 2,
+      "name": "zespół pęcherza nadreaktywnego"  
     }
   ]
 }

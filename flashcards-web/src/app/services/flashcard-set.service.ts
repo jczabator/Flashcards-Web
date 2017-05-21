@@ -18,6 +18,14 @@ export class FlashcardSetService {
       .catch(this.handleError);
   }
 
+  getByFlashcardCategory(flashcardCategoryId: number){
+    return <Observable<FlashcardSet[]>>this.http
+      .get(flashcardSetsUrl)
+      .map((response: Response) => <FlashcardSet[]>response.json().data
+        .filter(flashcardSet => flashcardSet.flashcardCategoryId === flashcardCategoryId))
+      .catch(this.handleError);
+  }
+
   private handleError(error: Response) {
     console.log(error);
     const message = "Error status code ${error.status} at ${error.url}";

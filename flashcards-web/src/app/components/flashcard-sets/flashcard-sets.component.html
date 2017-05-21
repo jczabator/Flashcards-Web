@@ -1,3 +1,14 @@
-<p>
-  flashcard-sets works!
-</p>
+<article>
+  <div>
+    <div class="containerX" fxFlex>
+      <div fxLayoutWrap="wrap" fxLayoutGap="20px" fxLayoutAlign="space-around center">
+        <div  *ngFor="let flashcardSet of flashcardSets"
+          (click)="goToQuiz(flashcardSet)">
+          <flashcard-set-button [flashcardSet]="flashcardSet"></flashcard-set-button>
+        </div>
+        <div style="width: 370px;height: 370;">
+        </div>
+      </div>
+    </div>
+  </div>
+</article>

@@ -19,6 +19,10 @@ const routes: Routes = [
   {
     path: "flashcard-categories",
     loadChildren: "app/components/flashcard-categories/flashcard-categories.module#FlashcardCategoriesModule"
+  },
+  {
+    path:"flashcard-sets",
+    loadChildren: "app/components/flashcard-sets/flashcard-sets.module#FlashcardSetsModule"
   }
 ]
 

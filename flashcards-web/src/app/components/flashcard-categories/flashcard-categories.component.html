@@ -3,7 +3,7 @@
     <div class="containerX" fxFlex>
       <div fxLayoutWrap="wrap" fxLayoutGap="20px" fxLayoutAlign="space-around center">
         <div  *ngFor="let category of categories">
-          <category-button [category]="category"></category-button>
+          <category-button [category]="category" (click)="goToFlashcardSets(category)"></category-button>
         </div>       
       </div>
     </div>
