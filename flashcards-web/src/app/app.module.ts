@@ -10,6 +10,8 @@ import "./core/rxjs-extensions";
 import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
 
+import { FlashcardComponent } from "./components/flashcard/flashcard.component";
+
 import { FlashcardSetService } from './services/flashcard-set.service';
 import { FlashcardService } from "./services/flashcard.service";
 import { FlashcardCategoryService } from "./services/flashcard-category.service";
@@ -35,7 +37,8 @@ import { FlashcardSetsModule } from "./components/flashcard-sets/flashcard-sets.
     MaterialModule
   ],
   declarations: [
-    AppComponent,    
+    AppComponent,
+    FlashcardComponent
   ],
   providers: [
     FlashcardSetService,

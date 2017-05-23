@@ -9305,6 +9305,3318 @@
       "isPictureAnswer": false,
       "pictureBlob": "",
       "isLearned": false
+    },
+    {
+      "id": 1035,
+      "flashcardSetId": 22,
+      "name": "Military uniforms- ",
+      "text": "undur",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1036,
+      "flashcardSetId": 22,
+      "name": "Lightweight – ",
+      "text": "ekkiej wagi",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1037,
+      "flashcardSetId": 22,
+      "name": "Countries field uniforms- ",
+      "text": "mundurowanie polowe ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1038,
+      "flashcardSetId": 22,
+      "name": "Camouflaged- ",
+      "text": "akamuflowany",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1039,
+      "flashcardSetId": 22,
+      "name": "Blend- ",
+      "text": "mieszać",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1040,
+      "flashcardSetId": 22,
+      "name": "Headgear –",
+      "text": "nakrycie głowy, w tym wypadku coś w stylu hełmu",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1041,
+      "flashcardSetId": 22,
+      "name": "Field jacket-",
+      "text": "taka kurta od mundury, co chroni od zimna (ala bechatex 😊)",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1042,
+      "flashcardSetId": 22,
+      "name": "Load-bearing equipment ",
+      "text": " urządzenia nośne, takie cuda do noszenia na nich różnych rzeczy",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1043,
+      "flashcardSetId": 22,
+      "name": "Rucksack-",
+      "text": "plecak",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1044,
+      "flashcardSetId": 22,
+      "name": "Webbing ",
+      "text": " taśma tapicerska, ogólnie ten taki maeriał z którego robi się różne pasy I paski, które trzymają potem rzeczy",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1045,
+      "flashcardSetId": 22,
+      "name": "Bayonet",
+      "text": "- bagnet",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1046,
+      "flashcardSetId": 22,
+      "name": "Ammo pouches – ",
+      "text": "adownic,  takie cudo gdzie się trzyma naboje",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1047,
+      "flashcardSetId": 22,
+      "name": "First aid kit- ",
+      "text": "pteczka pierwszej pomocy",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1048,
+      "flashcardSetId": 22,
+      "name": "Holster – ",
+      "text": "abura ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1049,
+      "flashcardSetId": 22,
+      "name": "Kevlar helmet- ",
+      "text": "ełm kewlarowy",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1050,
+      "flashcardSetId": 22,
+      "name": "Canteen –",
+      "text": "menażka",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1051,
+      "flashcardSetId": 22,
+      "name": "Flashlight – ",
+      "text": "aatrka",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1052,
+      "flashcardSetId": 22,
+      "name": "Rank in armies – ",
+      "text": "topnie wojskowe",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1053,
+      "flashcardSetId": 22,
+      "name": "Enlisted soldiers – ",
+      "text": "soby z najniższym stopniem wojskowym",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1054,
+      "flashcardSetId": 22,
+      "name": "Officers- ",
+      "text": "ficerowie",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1055,
+      "flashcardSetId": 22,
+      "name": "Command authority – ",
+      "text": "rzywilej wydawania rozkazów",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1056,
+      "flashcardSetId": 22,
+      "name": "Commissioned officer – ",
+      "text": "leceniodawca, officer odpowiedzialny za wykonanie określonego zadania ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1057,
+      "flashcardSetId": 22,
+      "name": "Private- ",
+      "text": "zeregowy",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1058,
+      "flashcardSetId": 22,
+      "name": "Non-commissioned officer – ",
+      "text": "soba wcielona do wojska, która ma wysoki stopień,ale przyjmuje rozkazy od wyższych przełożonych (tych commissioned oficerów)",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1059,
+      "flashcardSetId": 22,
+      "name": "Sergeant- ",
+      "text": "ierżant",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1060,
+      "flashcardSetId": 22,
+      "name": "Warrant officer",
+      "text": "- chorąży",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1061,
+      "flashcardSetId": 22,
+      "name": "Technicians-",
+      "text": "technik",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1062,
+      "flashcardSetId": 22,
+      "name": "Specialist",
+      "text": " specialista",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1063,
+      "flashcardSetId": 22,
+      "name": "Lieutenant-",
+      "text": "orucznik",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1064,
+      "flashcardSetId": 22,
+      "name": "Commissioned officers – ",
+      "text": "ilitarny oficer wyższy rangą; oficer; ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1065,
+      "flashcardSetId": 22,
+      "name": "Private – ",
+      "text": "zeregowy",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1066,
+      "flashcardSetId": 22,
+      "name": "General-",
+      "text": "generał",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1067,
+      "flashcardSetId": 22,
+      "name": "Major- ",
+      "text": "ajor",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1068,
+      "flashcardSetId": 22,
+      "name": "Private first class-",
+      "text": "st szer",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1069,
+      "flashcardSetId": 22,
+      "name": "Corporal",
+      "text": " kapral",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1070,
+      "flashcardSetId": 22,
+      "name": "Staff sergeant-",
+      "text": "sierż sztab",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1071,
+      "flashcardSetId": 22,
+      "name": "Sergeant first class-",
+      "text": "sierż sztab",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1072,
+      "flashcardSetId": 22,
+      "name": "Master sergeant-",
+      "text": "młodszy chorąży",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1073,
+      "flashcardSetId": 22,
+      "name": "First sergeant- ",
+      "text": "watermistrz",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1074,
+      "flashcardSetId": 22,
+      "name": "Sergeant major- ",
+      "text": "t sierż sztabowy",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1075,
+      "flashcardSetId": 22,
+      "name": "Command sergeant major-",
+      "text": "st sierż sztabowy",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1076,
+      "flashcardSetId": 22,
+      "name": "Sergeant major of the army-",
+      "text": "st sierż sztaboey",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1077,
+      "flashcardSetId": 22,
+      "name": "Second lieutenant- ",
+      "text": "odporucznik",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1078,
+      "flashcardSetId": 22,
+      "name": "First lieutenant- ",
+      "text": "orucznik",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1079,
+      "flashcardSetId": 22,
+      "name": "Capitan- ",
+      "text": "apitan",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1080,
+      "flashcardSetId": 22,
+      "name": "Major- ",
+      "text": "ajor",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1081,
+      "flashcardSetId": 22,
+      "name": "Lieutenant colonel- ",
+      "text": "odpułkownik",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1082,
+      "flashcardSetId": 22,
+      "name": "Colonel- ",
+      "text": "ułkownik",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1083,
+      "flashcardSetId": 22,
+      "name": "Brigadier general- ",
+      "text": "en brygady",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1084,
+      "flashcardSetId": 22,
+      "name": "Major general- ",
+      "text": "en dywizji",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1085,
+      "flashcardSetId": 22,
+      "name": "Lieutenant general- ",
+      "text": "en broni",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1086,
+      "flashcardSetId": 22,
+      "name": "General- ",
+      "text": "enerał",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1087,
+      "flashcardSetId": 22,
+      "name": "Unit- ",
+      "text": "ednostka",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1088,
+      "flashcardSetId": 22,
+      "name": "Fireteam- ",
+      "text": "ruzyna ogniowa",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1089,
+      "flashcardSetId": 22,
+      "name": "Squad- ",
+      "text": "luton strzelecki",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1090,
+      "flashcardSetId": 22,
+      "name": "Platoon- ",
+      "text": "luton",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1091,
+      "flashcardSetId": 22,
+      "name": "Company-",
+      "text": "kompania",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1092,
+      "flashcardSetId": 22,
+      "name": "Battalion- ",
+      "text": "atalion",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1093,
+      "flashcardSetId": 22,
+      "name": "Troops- ",
+      "text": "ołnierze",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1094,
+      "flashcardSetId": 22,
+      "name": "Regiment",
+      "text": " legion, pułk",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1095,
+      "flashcardSetId": 22,
+      "name": "Division-",
+      "text": "dywizja",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1096,
+      "flashcardSetId": 22,
+      "name": "Army-",
+      "text": "armia",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1097,
+      "flashcardSetId": 22,
+      "name": "Corps- ",
+      "text": "orpus",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1098,
+      "flashcardSetId": 22,
+      "name": "Section-",
+      "text": "sekcja",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1099,
+      "flashcardSetId": 22,
+      "name": "Branch called an arm or service –",
+      "text": "część, gałąź armi/wojsko o jakimś konkretnym, charakterystycznym celu (tu chyba w takim sensie jak np. Medycy)",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1100,
+      "flashcardSetId": 22,
+      "name": "Specific purpose- ",
+      "text": "pecyficzne cele",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1101,
+      "flashcardSetId": 22,
+      "name": "Combat arms- ",
+      "text": "ddziały bojowe",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1102,
+      "flashcardSetId": 22,
+      "name": "Enemy- ",
+      "text": "róg",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1103,
+      "flashcardSetId": 22,
+      "name": "Infantry-",
+      "text": "iechota",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1104,
+      "flashcardSetId": 22,
+      "name": "Foot soldiers- ",
+      "text": "iechota",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1105,
+      "flashcardSetId": 22,
+      "name": "Engage the enemy-",
+      "text": "ejść w kontakt z wrogiem",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1106,
+      "flashcardSetId": 22,
+      "name": "Small arms- ",
+      "text": "roń ręczna",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1107,
+      "flashcardSetId": 22,
+      "name": "Field artillery- ",
+      "text": "rtyleria  polowa",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1108,
+      "flashcardSetId": 22,
+      "name": "Armored division- ",
+      "text": "ywizje opancerzone",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1109,
+      "flashcardSetId": 22,
+      "name": "Combat support- ",
+      "text": "ddziały wsparcia",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1110,
+      "flashcardSetId": 22,
+      "name": "Corps of Engineers- ",
+      "text": "orp inżynieryjski",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1111,
+      "flashcardSetId": 22,
+      "name": " Military police- ",
+      "text": "andarmeria",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1112,
+      "flashcardSetId": 22,
+      "name": "Support arms- ",
+      "text": "ddziały wsparcia",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1113,
+      "flashcardSetId": 22,
+      "name": "Engage- ",
+      "text": "ejść w kontakt",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1114,
+      "flashcardSetId": 22,
+      "name": "Desert- ",
+      "text": "ustynia",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1115,
+      "flashcardSetId": 22,
+      "name": "Mountain- ",
+      "text": "ory",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1116,
+      "flashcardSetId": 22,
+      "name": "Jungle- ",
+      "text": "żungla",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1117,
+      "flashcardSetId": 22,
+      "name": "Arctic- ",
+      "text": "odowieic",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1118,
+      "flashcardSetId": 22,
+      "name": "Urban- ",
+      "text": "iasto",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1119,
+      "flashcardSetId": 22,
+      "name": "Terrain- ",
+      "text": "eren",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1120,
+      "flashcardSetId": 22,
+      "name": "Topographical features ",
+      "text": " cechy topograficzne",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1121,
+      "flashcardSetId": 22,
+      "name": "Split into- ",
+      "text": "odzielić na",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1122,
+      "flashcardSetId": 22,
+      "name": "Grids- ",
+      "text": "iatka",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1123,
+      "flashcardSetId": 22,
+      "name": "Grid coordinates-",
+      "text": "współrzędne siatki (topograficzne)",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1124,
+      "flashcardSetId": 22,
+      "name": "Determine the location- ",
+      "text": "kreślać lokalizację",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1125,
+      "flashcardSetId": 22,
+      "name": "Cover- ",
+      "text": "chronienie",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1126,
+      "flashcardSetId": 22,
+      "name": "Concealment",
+      "text": " ukrycie",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1127,
+      "flashcardSetId": 22,
+      "name": "Scales- ",
+      "text": "kala",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1128,
+      "flashcardSetId": 22,
+      "name": "Decipt – ",
+      "text": "rzedstawić, opisać",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1129,
+      "flashcardSetId": 22,
+      "name": "Contour lines – ",
+      "text": "inia konturowa, warstwica",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1130,
+      "flashcardSetId": 22,
+      "name": "Terrain features – ",
+      "text": "echy terenu np. Pustynia",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1131,
+      "flashcardSetId": 22,
+      "name": "Elevation- ",
+      "text": "zniesienia",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1132,
+      "flashcardSetId": 22,
+      "name": "Hills- ",
+      "text": "zgórza",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1133,
+      "flashcardSetId": 22,
+      "name": "Saddles- ",
+      "text": "rzełęcze",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1134,
+      "flashcardSetId": 22,
+      "name": "Valleys- ",
+      "text": "oliny",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1135,
+      "flashcardSetId": 22,
+      "name": "Concentric circles-",
+      "text": "koncentryczne koła",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1136,
+      "flashcardSetId": 22,
+      "name": "Vertical dips between two hills",
+      "text": " pionowy spadek pomiędzy dwoma wzgórzami",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1137,
+      "flashcardSetId": 22,
+      "name": "Hourglass-shaped- ",
+      "text": "ształt klepsydry",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1138,
+      "flashcardSetId": 22,
+      "name": "Depressions- ",
+      "text": "epresje",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1139,
+      "flashcardSetId": 22,
+      "name": "Spur- ",
+      "text": "ranie",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1140,
+      "flashcardSetId": 22,
+      "name": "Cliff- ",
+      "text": "lif",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1141,
+      "flashcardSetId": 22,
+      "name": "Draw- ",
+      "text": "ąwóz",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1142,
+      "flashcardSetId": 22,
+      "name": "Ridge-",
+      "text": "rzbiet górski",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1143,
+      "flashcardSetId": 22,
+      "name": "Fill- ",
+      "text": "asypy",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1144,
+      "flashcardSetId": 22,
+      "name": "Cut- ",
+      "text": "owy podkopane prez człowieka",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1145,
+      "flashcardSetId": 22,
+      "name": "Split into – ",
+      "text": "odzielone na",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1146,
+      "flashcardSetId": 22,
+      "name": "Squar- ",
+      "text": "wadrat",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1147,
+      "flashcardSetId": 22,
+      "name": "To decipt – ",
+      "text": "yobrażać sobie",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1148,
+      "flashcardSetId": 22,
+      "name": "Different attitudes to taking a part- ",
+      "text": "ózne postawy wobec wziącia udziału w",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1149,
+      "flashcardSetId": 22,
+      "name": "Increased anticipation- ",
+      "text": "większone oczekiwania",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1150,
+      "flashcardSetId": 22,
+      "name": "Will age be a factor- ",
+      "text": "zy wiek może być czynnikiem",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1151,
+      "flashcardSetId": 22,
+      "name": "Different styles of training-",
+      "text": "różne style treningu",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1152,
+      "flashcardSetId": 22,
+      "name": "Taking a short brake",
+      "text": " brać krótką przerwę",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1153,
+      "flashcardSetId": 22,
+      "name": "The will to succeed",
+      "text": " chęć osiągnięcia sukcesu",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1154,
+      "flashcardSetId": 22,
+      "name": "Alike in many ways",
+      "text": " podobnie na wiele sposobów",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1155,
+      "flashcardSetId": 22,
+      "name": "Competing again after injury-",
+      "text": "wrócić do konkurencji po kontuzji",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1156,
+      "flashcardSetId": 22,
+      "name": "Not trying to prove anything",
+      "text": " nie próbuj udowodnić niczego",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1157,
+      "flashcardSetId": 22,
+      "name": "Will be miles apart ",
+      "text": " oddalone o siebie o mile (w sensie że daleko)",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1158,
+      "flashcardSetId": 22,
+      "name": "Compete in international race- ",
+      "text": "czestniczyć w międzynarodowym wyścigu",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1159,
+      "flashcardSetId": 22,
+      "name": "Highlighting- ",
+      "text": "odkreslać",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1160,
+      "flashcardSetId": 22,
+      "name": "Heading off- ",
+      "text": "yjeżdżać",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1161,
+      "flashcardSetId": 22,
+      "name": "Altitude- ",
+      "text": "ysokość",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1162,
+      "flashcardSetId": 22,
+      "name": "Hurting a knee tendon- ",
+      "text": "szkodzenie więzadła kolana",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1163,
+      "flashcardSetId": 22,
+      "name": "Sidelines",
+      "text": " linia boczna",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1164,
+      "flashcardSetId": 22,
+      "name": "Appearance- ",
+      "text": "becność, wygląd, pojawić się",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1165,
+      "flashcardSetId": 22,
+      "name": "To dismiss-",
+      "text": "zwolnić kogoś, odrzucać",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1166,
+      "flashcardSetId": 22,
+      "name": "Objective-",
+      "text": "cel",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1167,
+      "flashcardSetId": 22,
+      "name": "Paths-",
+      "text": "ścieżki ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1168,
+      "flashcardSetId": 22,
+      "name": "Heightened",
+      "text": " podnosić podwyższać",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1169,
+      "flashcardSetId": 22,
+      "name": "Suspense- ",
+      "text": "iepewność",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1170,
+      "flashcardSetId": 22,
+      "name": "Battle royal",
+      "text": " bitwa generalna",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1171,
+      "flashcardSetId": 22,
+      "name": "Strengths",
+      "text": " silne strony",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1172,
+      "flashcardSetId": 22,
+      "name": "Watch out for-",
+      "text": "uważaj na",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1173,
+      "flashcardSetId": 22,
+      "name": "Desire to win- ",
+      "text": "hęć wygrania",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1174,
+      "flashcardSetId": 22,
+      "name": "Equally complimentary language – ",
+      "text": "ównie darmowy/wolny język",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1175,
+      "flashcardSetId": 22,
+      "name": "Distinctive- ",
+      "text": "harakterystyczny, wyraźny",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1176,
+      "flashcardSetId": 22,
+      "name": "Culmination- ",
+      "text": "ulminacja, nagromadzenie",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1177,
+      "flashcardSetId": 22,
+      "name": "altitude- ",
+      "text": "ysokosć",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1178,
+      "flashcardSetId": 22,
+      "name": "in isolation- ",
+      "text": " odosobnieniu",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1179,
+      "flashcardSetId": 22,
+      "name": "on the sidelines – ",
+      "text": "a lini autowej??",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1180,
+      "flashcardSetId": 22,
+      "name": "in anticipation of- ",
+      "text": " oczekiwaniu na",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1181,
+      "flashcardSetId": 22,
+      "name": "emphasised- ",
+      "text": "odkreślać, akcentować",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1182,
+      "flashcardSetId": 22,
+      "name": "eye-catching- ",
+      "text": "fektowny, przyciagający wrok",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1183,
+      "flashcardSetId": 22,
+      "name": "fixed idea fillings one’s mind – ",
+      "text": "bsesja zakrząta umysł kogoś",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1184,
+      "flashcardSetId": 22,
+      "name": "to beat- ",
+      "text": "okonać kogoś",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1185,
+      "flashcardSetId": 22,
+      "name": "to win- ",
+      "text": "ygrać",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1186,
+      "flashcardSetId": 22,
+      "name": "far- ",
+      "text": "dległy",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1187,
+      "flashcardSetId": 22,
+      "name": "complimentary-",
+      "text": "pochlebny, bezpłatny",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1188,
+      "flashcardSetId": 22,
+      "name": "to take – ",
+      "text": "ziąć",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1189,
+      "flashcardSetId": 22,
+      "name": "to dismiss- ",
+      "text": "wolnić, zrezygnować",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1190,
+      "flashcardSetId": 22,
+      "name": "a step up- ",
+      "text": "rzyspieszać",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1191,
+      "flashcardSetId": 22,
+      "name": "at a loose end- ",
+      "text": "ie mieć zajęcia",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1192,
+      "flashcardSetId": 22,
+      "name": "put an end to-",
+      "text": "zakończyc coś",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1193,
+      "flashcardSetId": 22,
+      "name": "light at the end of the tunnel- ",
+      "text": "wiatełko na końcu tunelu",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1194,
+      "flashcardSetId": 22,
+      "name": "brought to an end –",
+      "text": "doprowadzić do końca",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1195,
+      "flashcardSetId": 22,
+      "name": "dead end- ",
+      "text": "lepa uliczka",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1196,
+      "flashcardSetId": 22,
+      "name": "odds and ends- ",
+      "text": "robiazgi",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1197,
+      "flashcardSetId": 22,
+      "name": "got the wrong end of the stick-",
+      "text": "źle zrozumieć jakąś sytuację",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1198,
+      "flashcardSetId": 22,
+      "name": "to make ends meet-",
+      "text": "wiązać koniec z końcem",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1199,
+      "flashcardSetId": 22,
+      "name": "in the public eye- ",
+      "text": "yć w centrum zainteresowania",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1200,
+      "flashcardSetId": 22,
+      "name": "to get a bird’s eye view-",
+      "text": "spojrzenie z lotu ptaka",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1201,
+      "flashcardSetId": 22,
+      "name": "apple of his grandmother eyes- ",
+      "text": "yć oczkiem w głowie",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1202,
+      "flashcardSetId": 22,
+      "name": "set eyes on somebody- ",
+      "text": "obaczyć kogoś po raz pierwszy",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1203,
+      "flashcardSetId": 22,
+      "name": "the children were all eyes",
+      "text": "–be all eyes – zobaczyć kogoś, na kogo wszyscy zwracają uwagę np. Modelke na wybiegu",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1204,
+      "flashcardSetId": 22,
+      "name": "an eye for an eye-",
+      "text": "oko za oko",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1205,
+      "flashcardSetId": 22,
+      "name": "keep an eye on- ",
+      "text": "ieć oko na",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1206,
+      "flashcardSetId": 22,
+      "name": "eye catching- ",
+      "text": "rzyciągający wzrok",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1207,
+      "flashcardSetId": 22,
+      "name": "has eyes for – ",
+      "text": "yć wpatrzonym w kogoś",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1208,
+      "flashcardSetId": 22,
+      "name": "with the naked eye ",
+      "text": " gołym okiem",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1209,
+      "flashcardSetId": 22,
+      "name": "railway complex – ",
+      "text": "ompleks kolejowy",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1210,
+      "flashcardSetId": 22,
+      "name": "brand new- ",
+      "text": "ałkiem nowy",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1211,
+      "flashcardSetId": 22,
+      "name": "immigration points -  ",
+      "text": "unkt odprawy",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1212,
+      "flashcardSetId": 22,
+      "name": "double decker",
+      "text": "piętrowy autobus",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1213,
+      "flashcardSetId": 22,
+      "name": "loudspeaker-",
+      "text": "łośnik",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1214,
+      "flashcardSetId": 22,
+      "name": "crew- ",
+      "text": "ałoga",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1215,
+      "flashcardSetId": 22,
+      "name": "predictable- ",
+      "text": "rzewidywalny",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1216,
+      "flashcardSetId": 22,
+      "name": "underground – ",
+      "text": "etro",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1217,
+      "flashcardSetId": 22,
+      "name": "cross-channel ferry- ",
+      "text": "rom kursujący przez Kanał La Manche ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1218,
+      "flashcardSetId": 22,
+      "name": "undoubtedly",
+      "text": " niewątpliwie, bez wątpienia",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1219,
+      "flashcardSetId": 23,
+      "name": "mundur",
+      "text": "Military uniforms- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1220,
+      "flashcardSetId": 23,
+      "name": "lekkiej wagi",
+      "text": "Lightweight – ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1221,
+      "flashcardSetId": 23,
+      "name": "umundurowanie polowe ",
+      "text": "Countries field uniforms- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1222,
+      "flashcardSetId": 23,
+      "name": "zakamuflowany",
+      "text": "Camouflaged- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1223,
+      "flashcardSetId": 23,
+      "name": "zmieszać",
+      "text": "Blend- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1224,
+      "flashcardSetId": 23,
+      "name": " nakrycie głowy, w tym wypadku coś w stylu hełmu",
+      "text": "Headgear –",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1225,
+      "flashcardSetId": 23,
+      "name": " taka kurta od mundury, co chroni od zimna (ala bechatex 😊)",
+      "text": "Field jacket-",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1226,
+      "flashcardSetId": 23,
+      "name": "– urządzenia nośne, takie cuda do noszenia na nich różnych rzeczy",
+      "text": "Load-bearing equipment ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1227,
+      "flashcardSetId": 23,
+      "name": " plecak",
+      "text": "Rucksack-",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1228,
+      "flashcardSetId": 23,
+      "name": "– taśma tapicerska, ogólnie ten taki maeriał z którego robi się różne pasy I paski, które trzymają potem rzeczy",
+      "text": "Webbing ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1229,
+      "flashcardSetId": 23,
+      "name": " - bagnet",
+      "text": "Bayonet",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1230,
+      "flashcardSetId": 23,
+      "name": "ładownic,  takie cudo gdzie się trzyma naboje",
+      "text": "Ammo pouches – ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1231,
+      "flashcardSetId": 23,
+      "name": "apteczka pierwszej pomocy",
+      "text": "First aid kit- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1232,
+      "flashcardSetId": 23,
+      "name": "kabura ",
+      "text": "Holster – ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1233,
+      "flashcardSetId": 23,
+      "name": "hełm kewlarowy",
+      "text": "Kevlar helmet- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1234,
+      "flashcardSetId": 23,
+      "name": " menażka",
+      "text": "Canteen –",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1235,
+      "flashcardSetId": 23,
+      "name": "laatrka",
+      "text": "Flashlight – ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1236,
+      "flashcardSetId": 23,
+      "name": "stopnie wojskowe",
+      "text": "Rank in armies – ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1237,
+      "flashcardSetId": 23,
+      "name": "osoby z najniższym stopniem wojskowym",
+      "text": "Enlisted soldiers – ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1238,
+      "flashcardSetId": 23,
+      "name": "oficerowie",
+      "text": "Officers- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1239,
+      "flashcardSetId": 23,
+      "name": "przywilej wydawania rozkazów",
+      "text": "Command authority – ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1240,
+      "flashcardSetId": 23,
+      "name": "zleceniodawca, officer odpowiedzialny za wykonanie określonego zadania ",
+      "text": "Commissioned officer – ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1241,
+      "flashcardSetId": 23,
+      "name": "szeregowy",
+      "text": "Private- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1242,
+      "flashcardSetId": 23,
+      "name": "osoba wcielona do wojska, która ma wysoki stopień,ale przyjmuje rozkazy od wyższych przełożonych (tych commissioned oficerów)",
+      "text": "Non-commissioned officer – ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1243,
+      "flashcardSetId": 23,
+      "name": "sierżant",
+      "text": "Sergeant- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1244,
+      "flashcardSetId": 23,
+      "name": " - chorąży",
+      "text": "Warrant officer",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1245,
+      "flashcardSetId": 23,
+      "name": " technik",
+      "text": "Technicians-",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1246,
+      "flashcardSetId": 23,
+      "name": "- specialista",
+      "text": "Specialist",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1247,
+      "flashcardSetId": 23,
+      "name": "porucznik",
+      "text": "Lieutenant-",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1248,
+      "flashcardSetId": 23,
+      "name": "militarny oficer wyższy rangą; oficer; ",
+      "text": "Commissioned officers – ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1249,
+      "flashcardSetId": 23,
+      "name": "szeregowy",
+      "text": "Private – ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1250,
+      "flashcardSetId": 23,
+      "name": " generał",
+      "text": "General-",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1251,
+      "flashcardSetId": 23,
+      "name": "major",
+      "text": "Major- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1252,
+      "flashcardSetId": 23,
+      "name": " st szer",
+      "text": "Private first class-",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1253,
+      "flashcardSetId": 23,
+      "name": "- kapral",
+      "text": "Corporal",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1254,
+      "flashcardSetId": 23,
+      "name": " sierż sztab",
+      "text": "Staff sergeant-",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1255,
+      "flashcardSetId": 23,
+      "name": " sierż sztab",
+      "text": "Sergeant first class-",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1256,
+      "flashcardSetId": 23,
+      "name": " młodszy chorąży",
+      "text": "Master sergeant-",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1257,
+      "flashcardSetId": 23,
+      "name": "kwatermistrz",
+      "text": "First sergeant- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1258,
+      "flashcardSetId": 23,
+      "name": "st sierż sztabowy",
+      "text": "Sergeant major- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1259,
+      "flashcardSetId": 23,
+      "name": " st sierż sztabowy",
+      "text": "Command sergeant major-",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1260,
+      "flashcardSetId": 23,
+      "name": " st sierż sztaboey",
+      "text": "Sergeant major of the army-",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1261,
+      "flashcardSetId": 23,
+      "name": "podporucznik",
+      "text": "Second lieutenant- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1262,
+      "flashcardSetId": 23,
+      "name": "porucznik",
+      "text": "First lieutenant- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1263,
+      "flashcardSetId": 23,
+      "name": "kapitan",
+      "text": "Capitan- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1264,
+      "flashcardSetId": 23,
+      "name": "major",
+      "text": "Major- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1265,
+      "flashcardSetId": 23,
+      "name": "podpułkownik",
+      "text": "Lieutenant colonel- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1266,
+      "flashcardSetId": 23,
+      "name": "pułkownik",
+      "text": "Colonel- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1267,
+      "flashcardSetId": 23,
+      "name": "gen brygady",
+      "text": "Brigadier general- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1268,
+      "flashcardSetId": 23,
+      "name": "gen dywizji",
+      "text": "Major general- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1269,
+      "flashcardSetId": 23,
+      "name": "gen broni",
+      "text": "Lieutenant general- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1270,
+      "flashcardSetId": 23,
+      "name": "generał",
+      "text": "General- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1271,
+      "flashcardSetId": 23,
+      "name": "jednostka",
+      "text": "Unit- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1272,
+      "flashcardSetId": 23,
+      "name": "druzyna ogniowa",
+      "text": "Fireteam- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1273,
+      "flashcardSetId": 23,
+      "name": "pluton strzelecki",
+      "text": "Squad- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1274,
+      "flashcardSetId": 23,
+      "name": "pluton",
+      "text": "Platoon- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1275,
+      "flashcardSetId": 23,
+      "name": " kompania",
+      "text": "Company-",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1276,
+      "flashcardSetId": 23,
+      "name": "batalion",
+      "text": "Battalion- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1277,
+      "flashcardSetId": 23,
+      "name": "żołnierze",
+      "text": "Troops- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1278,
+      "flashcardSetId": 23,
+      "name": "- legion, pułk",
+      "text": "Regiment",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1279,
+      "flashcardSetId": 23,
+      "name": " dywizja",
+      "text": "Division-",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1280,
+      "flashcardSetId": 23,
+      "name": " armia",
+      "text": "Army-",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1281,
+      "flashcardSetId": 23,
+      "name": "korpus",
+      "text": "Corps- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1282,
+      "flashcardSetId": 23,
+      "name": " sekcja",
+      "text": "Section-",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1283,
+      "flashcardSetId": 23,
+      "name": " część, gałąź armi/wojsko o jakimś konkretnym, charakterystycznym celu (tu chyba w takim sensie jak np. Medycy)",
+      "text": "Branch called an arm or service –",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1284,
+      "flashcardSetId": 23,
+      "name": "specyficzne cele",
+      "text": "Specific purpose- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1285,
+      "flashcardSetId": 23,
+      "name": "oddziały bojowe",
+      "text": "Combat arms- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1286,
+      "flashcardSetId": 23,
+      "name": "wróg",
+      "text": "Enemy- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1287,
+      "flashcardSetId": 23,
+      "name": "piechota",
+      "text": "Infantry-",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1288,
+      "flashcardSetId": 23,
+      "name": "piechota",
+      "text": "Foot soldiers- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1289,
+      "flashcardSetId": 23,
+      "name": "wejść w kontakt z wrogiem",
+      "text": "Engage the enemy-",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1290,
+      "flashcardSetId": 23,
+      "name": "broń ręczna",
+      "text": "Small arms- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1291,
+      "flashcardSetId": 23,
+      "name": "artyleria  polowa",
+      "text": "Field artillery- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1292,
+      "flashcardSetId": 23,
+      "name": "dywizje opancerzone",
+      "text": "Armored division- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1293,
+      "flashcardSetId": 23,
+      "name": "oddziały wsparcia",
+      "text": "Combat support- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1294,
+      "flashcardSetId": 23,
+      "name": "korp inżynieryjski",
+      "text": "Corps of Engineers- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1295,
+      "flashcardSetId": 23,
+      "name": "żandarmeria",
+      "text": " Military police- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1296,
+      "flashcardSetId": 23,
+      "name": "oddziały wsparcia",
+      "text": "Support arms- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1297,
+      "flashcardSetId": 23,
+      "name": "wejść w kontakt",
+      "text": "Engage- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1298,
+      "flashcardSetId": 23,
+      "name": "pustynia",
+      "text": "Desert- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1299,
+      "flashcardSetId": 23,
+      "name": "gory",
+      "text": "Mountain- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1300,
+      "flashcardSetId": 23,
+      "name": "dżungla",
+      "text": "Jungle- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1301,
+      "flashcardSetId": 23,
+      "name": "lodowieic",
+      "text": "Arctic- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1302,
+      "flashcardSetId": 23,
+      "name": "miasto",
+      "text": "Urban- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1303,
+      "flashcardSetId": 23,
+      "name": "teren",
+      "text": "Terrain- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1304,
+      "flashcardSetId": 23,
+      "name": "– cechy topograficzne",
+      "text": "Topographical features ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1305,
+      "flashcardSetId": 23,
+      "name": "podzielić na",
+      "text": "Split into- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1306,
+      "flashcardSetId": 23,
+      "name": "siatka",
+      "text": "Grids- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1307,
+      "flashcardSetId": 23,
+      "name": " współrzędne siatki (topograficzne)",
+      "text": "Grid coordinates-",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1308,
+      "flashcardSetId": 23,
+      "name": "określać lokalizację",
+      "text": "Determine the location- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1309,
+      "flashcardSetId": 23,
+      "name": "schronienie",
+      "text": "Cover- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1310,
+      "flashcardSetId": 23,
+      "name": "- ukrycie",
+      "text": "Concealment",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1311,
+      "flashcardSetId": 23,
+      "name": "skala",
+      "text": "Scales- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1312,
+      "flashcardSetId": 23,
+      "name": "przedstawić, opisać",
+      "text": "Decipt – ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1313,
+      "flashcardSetId": 23,
+      "name": "linia konturowa, warstwica",
+      "text": "Contour lines – ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1314,
+      "flashcardSetId": 23,
+      "name": "cechy terenu np. Pustynia",
+      "text": "Terrain features – ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1315,
+      "flashcardSetId": 23,
+      "name": "wzniesienia",
+      "text": "Elevation- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1316,
+      "flashcardSetId": 23,
+      "name": "wzgórza",
+      "text": "Hills- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1317,
+      "flashcardSetId": 23,
+      "name": "przełęcze",
+      "text": "Saddles- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1318,
+      "flashcardSetId": 23,
+      "name": "doliny",
+      "text": "Valleys- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1319,
+      "flashcardSetId": 23,
+      "name": " koncentryczne koła",
+      "text": "Concentric circles-",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1320,
+      "flashcardSetId": 23,
+      "name": "- pionowy spadek pomiędzy dwoma wzgórzami",
+      "text": "Vertical dips between two hills",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1321,
+      "flashcardSetId": 23,
+      "name": "kształt klepsydry",
+      "text": "Hourglass-shaped- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1322,
+      "flashcardSetId": 23,
+      "name": "depresje",
+      "text": "Depressions- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1323,
+      "flashcardSetId": 23,
+      "name": "granie",
+      "text": "Spur- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1324,
+      "flashcardSetId": 23,
+      "name": "klif",
+      "text": "Cliff- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1325,
+      "flashcardSetId": 23,
+      "name": "wąwóz",
+      "text": "Draw- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1326,
+      "flashcardSetId": 23,
+      "name": "grzbiet górski",
+      "text": "Ridge-",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1327,
+      "flashcardSetId": 23,
+      "name": "nasypy",
+      "text": "Fill- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1328,
+      "flashcardSetId": 23,
+      "name": "rowy podkopane prez człowieka",
+      "text": "Cut- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1329,
+      "flashcardSetId": 23,
+      "name": "podzielone na",
+      "text": "Split into – ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1330,
+      "flashcardSetId": 23,
+      "name": "kwadrat",
+      "text": "Squar- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1331,
+      "flashcardSetId": 23,
+      "name": "wyobrażać sobie",
+      "text": "To decipt – ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1332,
+      "flashcardSetId": 23,
+      "name": "rózne postawy wobec wziącia udziału w",
+      "text": "Different attitudes to taking a part- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1333,
+      "flashcardSetId": 23,
+      "name": "zwiększone oczekiwania",
+      "text": "Increased anticipation- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1334,
+      "flashcardSetId": 23,
+      "name": "czy wiek może być czynnikiem",
+      "text": "Will age be a factor- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1335,
+      "flashcardSetId": 23,
+      "name": " różne style treningu",
+      "text": "Different styles of training-",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1336,
+      "flashcardSetId": 23,
+      "name": "- brać krótką przerwę",
+      "text": "Taking a short brake",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1337,
+      "flashcardSetId": 23,
+      "name": "- chęć osiągnięcia sukcesu",
+      "text": "The will to succeed",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1338,
+      "flashcardSetId": 23,
+      "name": "- podobnie na wiele sposobów",
+      "text": "Alike in many ways",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1339,
+      "flashcardSetId": 23,
+      "name": " wrócić do konkurencji po kontuzji",
+      "text": "Competing again after injury-",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1340,
+      "flashcardSetId": 23,
+      "name": "- nie próbuj udowodnić niczego",
+      "text": "Not trying to prove anything",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1341,
+      "flashcardSetId": 23,
+      "name": "– oddalone o siebie o mile (w sensie że daleko)",
+      "text": "Will be miles apart ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1342,
+      "flashcardSetId": 23,
+      "name": "uczestniczyć w międzynarodowym wyścigu",
+      "text": "Compete in international race- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1343,
+      "flashcardSetId": 23,
+      "name": "podkreslać",
+      "text": "Highlighting- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1344,
+      "flashcardSetId": 23,
+      "name": "wyjeżdżać",
+      "text": "Heading off- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1345,
+      "flashcardSetId": 23,
+      "name": "wysokość",
+      "text": "Altitude- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1346,
+      "flashcardSetId": 23,
+      "name": "uszkodzenie więzadła kolana",
+      "text": "Hurting a knee tendon- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1347,
+      "flashcardSetId": 23,
+      "name": "- linia boczna",
+      "text": "Sidelines",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1348,
+      "flashcardSetId": 23,
+      "name": "obecność, wygląd, pojawić się",
+      "text": "Appearance- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1349,
+      "flashcardSetId": 23,
+      "name": " zwolnić kogoś, odrzucać",
+      "text": "To dismiss-",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1350,
+      "flashcardSetId": 23,
+      "name": " cel",
+      "text": "Objective-",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1351,
+      "flashcardSetId": 23,
+      "name": " ścieżki ",
+      "text": "Paths-",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1352,
+      "flashcardSetId": 23,
+      "name": "- podnosić podwyższać",
+      "text": "Heightened",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1353,
+      "flashcardSetId": 23,
+      "name": "niepewność",
+      "text": "Suspense- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1354,
+      "flashcardSetId": 23,
+      "name": "- bitwa generalna",
+      "text": "Battle royal",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1355,
+      "flashcardSetId": 23,
+      "name": "- silne strony",
+      "text": "Strengths",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1356,
+      "flashcardSetId": 23,
+      "name": " uważaj na",
+      "text": "Watch out for-",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1357,
+      "flashcardSetId": 23,
+      "name": "chęć wygrania",
+      "text": "Desire to win- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1358,
+      "flashcardSetId": 23,
+      "name": "Równie darmowy/wolny język",
+      "text": "Equally complimentary language – ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1359,
+      "flashcardSetId": 23,
+      "name": "charakterystyczny, wyraźny",
+      "text": "Distinctive- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1360,
+      "flashcardSetId": 23,
+      "name": "kulminacja, nagromadzenie",
+      "text": "Culmination- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1361,
+      "flashcardSetId": 23,
+      "name": "wysokosć",
+      "text": "altitude- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1362,
+      "flashcardSetId": 23,
+      "name": "w odosobnieniu",
+      "text": "in isolation- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1363,
+      "flashcardSetId": 23,
+      "name": "na lini autowej??",
+      "text": "on the sidelines – ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1364,
+      "flashcardSetId": 23,
+      "name": "w oczekiwaniu na",
+      "text": "in anticipation of- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1365,
+      "flashcardSetId": 23,
+      "name": "podkreślać, akcentować",
+      "text": "emphasised- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1366,
+      "flashcardSetId": 23,
+      "name": "efektowny, przyciagający wrok",
+      "text": "eye-catching- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1367,
+      "flashcardSetId": 23,
+      "name": "obsesja zakrząta umysł kogoś",
+      "text": "fixed idea fillings one’s mind – ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1368,
+      "flashcardSetId": 23,
+      "name": "pokonać kogoś",
+      "text": "to beat- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1369,
+      "flashcardSetId": 23,
+      "name": "wygrać",
+      "text": "to win- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1370,
+      "flashcardSetId": 23,
+      "name": "odległy",
+      "text": "far- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1371,
+      "flashcardSetId": 23,
+      "name": " pochlebny, bezpłatny",
+      "text": "complimentary-",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1372,
+      "flashcardSetId": 23,
+      "name": "wziąć",
+      "text": "to take – ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1373,
+      "flashcardSetId": 23,
+      "name": "zwolnić, zrezygnować",
+      "text": "to dismiss- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1374,
+      "flashcardSetId": 23,
+      "name": "przyspieszać",
+      "text": "a step up- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1375,
+      "flashcardSetId": 23,
+      "name": "nie mieć zajęcia",
+      "text": "at a loose end- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1376,
+      "flashcardSetId": 23,
+      "name": " zakończyc coś",
+      "text": "put an end to-",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1377,
+      "flashcardSetId": 23,
+      "name": "światełko na końcu tunelu",
+      "text": "light at the end of the tunnel- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1378,
+      "flashcardSetId": 23,
+      "name": " doprowadzić do końca",
+      "text": "brought to an end –",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1379,
+      "flashcardSetId": 23,
+      "name": "ślepa uliczka",
+      "text": "dead end- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1380,
+      "flashcardSetId": 23,
+      "name": "drobiazgi",
+      "text": "odds and ends- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1381,
+      "flashcardSetId": 23,
+      "name": " źle zrozumieć jakąś sytuację",
+      "text": "got the wrong end of the stick-",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1382,
+      "flashcardSetId": 23,
+      "name": " wiązać koniec z końcem",
+      "text": "to make ends meet-",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1383,
+      "flashcardSetId": 23,
+      "name": "być w centrum zainteresowania",
+      "text": "in the public eye- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1384,
+      "flashcardSetId": 23,
+      "name": " spojrzenie z lotu ptaka",
+      "text": "to get a bird’s eye view-",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1385,
+      "flashcardSetId": 23,
+      "name": "być oczkiem w głowie",
+      "text": "apple of his grandmother eyes- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1386,
+      "flashcardSetId": 23,
+      "name": "zobaczyć kogoś po raz pierwszy",
+      "text": "set eyes on somebody- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1387,
+      "flashcardSetId": 23,
+      "name": " –be all eyes – zobaczyć kogoś, na kogo wszyscy zwracają uwagę np. Modelke na wybiegu",
+      "text": "the children were all eyes",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1388,
+      "flashcardSetId": 23,
+      "name": " oko za oko",
+      "text": "an eye for an eye-",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1389,
+      "flashcardSetId": 23,
+      "name": "mieć oko na",
+      "text": "keep an eye on- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1390,
+      "flashcardSetId": 23,
+      "name": "przyciągający wzrok",
+      "text": "eye catching- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1391,
+      "flashcardSetId": 23,
+      "name": "być wpatrzonym w kogoś",
+      "text": "has eyes for – ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1392,
+      "flashcardSetId": 23,
+      "name": "– gołym okiem",
+      "text": "with the naked eye ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1393,
+      "flashcardSetId": 23,
+      "name": "kompleks kolejowy",
+      "text": "railway complex – ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1394,
+      "flashcardSetId": 23,
+      "name": "całkiem nowy",
+      "text": "brand new- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1395,
+      "flashcardSetId": 23,
+      "name": "punkt odprawy",
+      "text": "immigration points -  ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1396,
+      "flashcardSetId": 23,
+      "name": "-piętrowy autobus",
+      "text": "double decker",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1397,
+      "flashcardSetId": 23,
+      "name": "głośnik",
+      "text": "loudspeaker-",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1398,
+      "flashcardSetId": 23,
+      "name": "załoga",
+      "text": "crew- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1399,
+      "flashcardSetId": 23,
+      "name": "przewidywalny",
+      "text": "predictable- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1400,
+      "flashcardSetId": 23,
+      "name": "metro",
+      "text": "underground – ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1401,
+      "flashcardSetId": 23,
+      "name": "prom kursujący przez Kanał La Manche ",
+      "text": "cross-channel ferry- ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1402,
+      "flashcardSetId": 23,
+      "name": "- niewątpliwie, bez wątpienia",
+      "text": "undoubtedly",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
     }
   ]
 }

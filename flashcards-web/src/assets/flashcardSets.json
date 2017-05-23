@@ -104,6 +104,16 @@
       "id": 21,
       "flashcardCategoryId": 2,
       "name": "zespół pęcherza nadreaktywnego"  
+    },
+    {
+      "id": 22,
+      "flashcardCategoryId": 3,
+      "name": "angielski słówka"  
+    },
+    {
+      "id": 23,
+      "flashcardCategoryId": 3,
+      "name": "angielski słówka pol - ang"  
     }
   ]
 }
