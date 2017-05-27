@@ -77,43 +77,283 @@
     },
     {
       "id": 16,
-      "flashcardCategoryId": 2,
-      "name": "neuroleptyki, leczenie bólu "
+      "name": "leki prokognitywne, otępienie",
+      "flashcardCategoryId": 2
     },
     {
       "id": 17,
-      "flashcardCategoryId": 2,
-      "name": "Leczenie Hormonalne"
+      "name": "ADHD",
+      "flashcardCategoryId": 2
     },
     {
       "id": 18,
-      "flashcardCategoryId": 2,
-      "name": "płucne, leki fibrynolityczne i leki przyspieszające krzepnięcie"
+      "name": "Parkinson",
+      "flashcardCategoryId": 2
     },
     {
       "id": 19,
-      "flashcardCategoryId": 2,
-      "name": "Hiperlipidemia, statyny fibraty"
+      "name": "NEUROLEPTYKI",
+      "flashcardCategoryId": 2
     },
     {
       "id": 20,
-      "flashcardCategoryId": 2,
-      "name": "leczenie dny moczanowej, immunoterapia antygenem, farmakoterapia chorób naczyń obwodowych"
+      "name": "LEKI PRZECIWDEPRESYJNE",
+      "flashcardCategoryId": 2
     },
     {
       "id": 21,
-      "flashcardCategoryId": 2,
-      "name": "zespół pęcherza nadreaktywnego"  
+      "name": "NLPZ",
+      "flashcardCategoryId": 2
     },
     {
       "id": 22,
-      "flashcardCategoryId": 3,
-      "name": "angielski słówka"  
+      "name": "II SZCZEBEL DRABINY ANALGETYCZNEJ LEKI",
+      "flashcardCategoryId": 2
     },
     {
       "id": 23,
-      "flashcardCategoryId": 3,
-      "name": "angielski słówka pol - ang"  
+      "name": "14.12.2016 -, zespół pęcherza nadreaktywnego (GR 9)",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 24,
+      "name": "11.01.2017 - leczenie dny moczanowej, immunoterapia antygenem, farmakoterapia chorób naczyń obwodowych - nie dokończona (zakończone na buflomedilu) (GR 10)",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 25,
+      "name": "STATYNY INFORMACJE",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 26,
+      "name": "Nadciśnienie tętnicze ",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 27,
+      "name": "MOCZOPĘDNE:",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 28,
+      "name": "Nadciśnienie płucne, ",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 29,
+      "name": "Leki fibrynolityczne",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 30,
+      "name": "Wykład 17",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 31,
+      "name": "NWD PRAWEJ KOMOMRY",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 32,
+      "name": "LEKI O DZIALANIU INOTROPOWYM DODATNIM",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 33,
+      "name": "LEKI ANTYARYTMICZNE",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 34,
+      "name": "AZOTANY",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 35,
+      "name": "UKLAD AUTONOMICZNY CZESC PRZYWSPOLCZOLNA",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 36,
+      "name": "LEKI WE WSTRZĄSACH",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 37,
+      "name": "LEKI B-MIMETYKI i B BLOKERY",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 38,
+      "name": "UKŁAD WSPÓŁCZÓLNY RECEPTORY ALFA",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 39,
+      "name": "STERYDY",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 40,
+      "name": "ANTYHISTAMINIKI",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 41,
+      "name": "ANTYKOAGULANTY",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 42,
+      "name": "BENZODIAZEPINY I LEKI Z",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 43,
+      "name": "LEKI P/PADACZKOWE",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 44,
+      "name": "LEKISTOSOWANE W CHOROBACH UKŁ POKARMOWEGO",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 45,
+      "name": "LECZENIE HIRSUTYZMU",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 46,
+      "name": "TABLETKI ANTYKONCEPCYJNE",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 47,
+      "name": "LECZENIE NADCZYNNOŚCI TARCZYCY",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 48,
+      "name": " NIEDOCZYNNOŚĆ TARCZYCY ",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 49,
+      "name": "LECZENIE HIPERPROLAKTYNEMII",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 50,
+      "name": "ANDROPAUZA",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 51,
+      "name": "CHOROBY PRZENOSZONE DROGĄPŁCIOWĄ",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 52,
+      "name": "ZAPALENIE CEWKI MOCZOWEJ",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 53,
+      "name": "CHOROBY WIRUSOWE",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 54,
+      "name": "LECZENIE TRĄDZIKU",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 55,
+      "name": "CHOROBY PRZEWODU POKARMOWEGO ",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 56,
+      "name": "ANTYBIOTYKI PENICYLINY",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 57,
+      "name": "CEFALOSPORYNY",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 58,
+      "name": "KARBAPENEMY",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 59,
+      "name": "MAKROLIDY",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 60,
+      "name": "TETRACYKLINY",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 61,
+      "name": "FLUOROCHINOLONY",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 62,
+      "name": "AMINOGLIKOZYDY",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 63,
+      "name": "LINKOZAMIDY",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 64,
+      "name": "GLIKOPEPTYDY",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 65,
+      "name": "LEKI PRZECIWBAKTERYJNE",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 66,
+      "name": "HIPERGLIKEMIA",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 67,
+      "name": "WIRUSY",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 68,
+      "name": "WZWA",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 69,
+      "name": "WZWC",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 70,
+      "name": "WZWB",
+      "flashcardCategoryId": 2
+    },
+    {
+      "id": 71,
+      "name": "CHOROBY ZAPALNE JELIT",
+      "flashcardCategoryId": 2
     }
   ]
 }
