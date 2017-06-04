@@ -13004,6 +13004,2985 @@
       "isPictureAnswer": false,
       "pictureBlob": "",
       "isLearned": false
+    },
+    {
+      "id": 1446,
+      "flashcardSetId": 72,
+      "name": "ADHD u dzieci ",
+      "text": "atomoksetyna Strattera Tabl. 10mg 1x1 rano ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1447,
+      "flashcardSetId": 72,
+      "name": "ADHD; narkolepsja; wyprowadzanie z narkozy ",
+      "text": "metylofenidat Concerta  Tabl. 18mg 1x1 rano ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1448,
+      "flashcardSetId": 72,
+      "name": "Alergia + praca operatora",
+      "text": "feksofenadyna (p/histaminowy II gen. ) Telfast 180   Tabl. 180mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1449,
+      "flashcardSetId": 72,
+      "name": "Alergia doraźnie",
+      "text": "cetyryzyna (p/hist. II GEN. ) Zyrtec  Krople doustne 10mg/ml 10mg/ml 20 kropel ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1450,
+      "flashcardSetId": 72,
+      "name": "Alergia II gen",
+      "text": "desloratadyna ( p/hist. Ii gen.) Hitaxa  Tabl. ulegające rozp. W jamie ustnej 5mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1451,
+      "flashcardSetId": 72,
+      "name": "Alergiczne zap. Spojówek",
+      "text": "Azelastyna Azelastin-POS Krople do oczu 0,5mg/ml 1x2/d ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1452,
+      "flashcardSetId": 72,
+      "name": "Andropauza",
+      "text": "undecylenian testosteronu Undestor Testocaps caps. 40mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1453,
+      "flashcardSetId": 72,
+      "name": "Anemia sierpowatokrwinkowa ",
+      "text": "Hydroksymocznik (cytostatyk, hamuje reduktaze rybonukleotydową, niszczy DNA) Hydroxycarbamid Tabl.500  mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1454,
+      "flashcardSetId": 72,
+      "name": "Angina + alergia na penicyliny",
+      "text": "azytromycyna Summamed  tabl.500mg Co 24h przez, 3dni ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1455,
+      "flashcardSetId": 72,
+      "name": "Angina paciorkowcowa ",
+      "text": "Penicylina fenoksymetylowa Ospen 1000  Tabl. 1mln j. m. Co 8h przez 10dni ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1456,
+      "flashcardSetId": 72,
+      "name": "Arytmia komorowa pozawałowa",
+      "text": "lidokaina Lignocainum hydrochloricum 1%  Roztwór 200mg/20ml I.v ½ ampulki ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1457,
+      "flashcardSetId": 72,
+      "name": "Astma",
+      "text": "Formoterol (najmocniej rozszerza oskrzela)BudezonidBekolmetazon+ formoterol ForadilPulmicort Turbuhalerłączone: Fostex  Proszek do inh.12μg/dawkęProszek do inh.0,2mg/dawkęAerozol do inh. F 2x2; P 2x0,2mg; Fx 2x2 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1458,
+      "flashcardSetId": 72,
+      "name": "Astma ( doraźnie) ",
+      "text": "fenoterol Berotec N 100 Aerozol do inh.100 µg/dawkę 1 dawka,jeśli brak efektu po 5 min druga ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1459,
+      "flashcardSetId": 72,
+      "name": "Astma + ciąża",
+      "text": "Budezonid Pulmicort Turbuhaler Proszek do inh.0,2mg/dawkę 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1460,
+      "flashcardSetId": 72,
+      "name": "Atonia pooperacyjna jelit i pęcherza ",
+      "text": "Ambenonium(cholinomimetyk, inhibitor acetylocholinesterazy) Mytelase  Tabl. 10mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1461,
+      "flashcardSetId": 72,
+      "name": "Badanie oka- rozszerzenie źrenicy",
+      "text": "atropina Atropinum sulfuricum 1%  Krople do oczu 10mg/ml 2x1kr, 5dni ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1462,
+      "flashcardSetId": 72,
+      "name": "Bąblowica",
+      "text": "albendazol zentel  Tabl. do rozgryzania i zucia 400mg 1x1, 3dni ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1463,
+      "flashcardSetId": 72,
+      "name": "b-blok o najkrótszym cz dz",
+      "text": "esmolol Esmocard  Rozt. 100mg/10ml 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1464,
+      "flashcardSetId": 72,
+      "name": "b-bloker + potencja",
+      "text": "Nebiwolol ( 3 gen.selektywny, uwalnia NO) Nebilet  Tabl. 5mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1465,
+      "flashcardSetId": 72,
+      "name": "bezsenność",
+      "text": "Zolpidem nitrazepam Nasen Nitrazepam GSK Tabl. 10 mgTabl. 5 mg 1 przed snem ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1466,
+      "flashcardSetId": 72,
+      "name": "białaczka ",
+      "text": "hydroksymocznik Hydroxycarbamid - 147 Tabl. 500mg 40mg/kg ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1467,
+      "flashcardSetId": 72,
+      "name": "biegunka",
+      "text": "Difenoksylat + atropina Reasec tabl Ostra: 1-2 3x\u000bPrzewlekła: 1 2x ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1468,
+      "flashcardSetId": 72,
+      "name": "Biegunka (opioid)",
+      "text": "Loperamid Loperamid WZF Tabl. 2 mg 2 tabl, potem 1, max. 8 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1469,
+      "flashcardSetId": 72,
+      "name": "Ból – duży, nie może opioidów",
+      "text": "nefopam Nefopam  tabl.30mg 1 tabl. Co 8h ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1470,
+      "flashcardSetId": 72,
+      "name": "Ból (duże s-n, małe p)",
+      "text": "naproksen Apo-napro  tabl.500mg 1tabl. co 12h ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1471,
+      "flashcardSetId": 72,
+      "name": "Ból (małe S-n, duże p)",
+      "text": "celekoksyb Celebrex  tabl.100mg 2x1tabl. ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1472,
+      "flashcardSetId": 72,
+      "name": "Ból + ciąża",
+      "text": "paracetamol Apap  Tabl. 500mg 500mg co 6h ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1473,
+      "flashcardSetId": 72,
+      "name": "Ból + rzs",
+      "text": "diklofenak Diclac 150 duo tabl.150mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1474,
+      "flashcardSetId": 72,
+      "name": "ból dławicowy - napad",
+      "text": "nitrogliceryna Nitromint  Aerozol podję. 0,4mg/dawka 1 doraźnie, max 3x w 15min ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1475,
+      "flashcardSetId": 72,
+      "name": "Ból neuropatyczny",
+      "text": "amitryptalina Amitryptylinum vp  Tabl. 10 mg 2x2 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1476,
+      "flashcardSetId": 72,
+      "name": "Ból przebijający",
+      "text": "fentanyl Instanyl  Aerozol do nosa 50µg/dawka Rpw    1 dawka, maks. 2 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1477,
+      "flashcardSetId": 72,
+      "name": "Ból przewlekły (opioid)",
+      "text": "fentanyl Durogesic System transdermalny 25 µg 9 4,2 mg) Rpw 1 plaster na 3 dni ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1478,
+      "flashcardSetId": 72,
+      "name": "Ból przewlekły (obwodowa neuropatia cukrzycowa, fibromialgia, plecy)",
+      "text": "duloksetyna Dulsevia Tabl. 60 mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1479,
+      "flashcardSetId": 72,
+      "name": "Ból (słaby opioid)",
+      "text": "tramadol Tramal Tabl. 50 mgCzopki 100 mg 1 co 4-6 h ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1480,
+      "flashcardSetId": 72,
+      "name": "Ból wieńcowy",
+      "text": "morfina Morphini Sulfas WZF  Amp. 1ml10 mg/ml 1 doraźnie i.m. lub i.v. ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1481,
+      "flashcardSetId": 72,
+      "name": "Bóle kolkowe (bardzo silne)",
+      "text": "petydyna Dolcontral Amp. 2 ml50mg/ml 1 doraźnie (100 mg) ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1482,
+      "flashcardSetId": 72,
+      "name": "Bóle nowotworowe niereagujące na paracetamol",
+      "text": "paracetamol + tramadol Tramapar  37,5 mg chlorku tramadolu325 mh paracetamolu 3x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1483,
+      "flashcardSetId": 72,
+      "name": "Bradykardia",
+      "text": "Atropina Atropinum sulphuricum Amp. 1mg/mlAmp. ,5mg/ml 1 amp. co 6h, i.v. lub i.m.  ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1484,
+      "flashcardSetId": 72,
+      "name": "bulimia",
+      "text": "fluoksetyna Bioxetin  Tabl. 20 mg 3x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1485,
+      "flashcardSetId": 72,
+      "name": "Choroba alkoholowa",
+      "text": "diazepam Relanium  Tabl. 5 mg 10 mg co 6h (1. dzień), 5 mg co 6h (kolejne 2-4 dni) ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1486,
+      "flashcardSetId": 72,
+      "name": "Choroba afektywna dwubiegunowa",
+      "text": "Lit Lithium Carbonicum GSK Tabl. 250mg  3x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1487,
+      "flashcardSetId": 72,
+      "name": "Choroba lokomocyjna",
+      "text": "Dimenhydrynat Aviomarin  Tabl. 50 mg 1t, 30min przed podróżą ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1488,
+      "flashcardSetId": 72,
+      "name": "Choroba niedokrwienna serca - dodatkowo, ochronnie, antyoksydacyjnie",
+      "text": "trimetazydyna Preductal MR Tabl. 35mg 2x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1489,
+      "flashcardSetId": 72,
+      "name": "Choroba wieńcowa przewlekle - nitrat",
+      "text": "Monoazotan izosorbidu Effox 20 Tabl. 20 mg 2x1 (16h przerwa) ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1490,
+      "flashcardSetId": 72,
+      "name": "Choroba wysokościowa",
+      "text": "Acetazolamid Diuramid  Tabl. 250 mg 2x1, dzień przed wspinaczką ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1491,
+      "flashcardSetId": 72,
+      "name": "ciecie cesarskie",
+      "text": "Cefazolina Biofazolin Proszek do sporządzania roztworu do wstrzykń 1 g  1g 30min przed ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1492,
+      "flashcardSetId": 72,
+      "name": "Cukrzyca + ciąża",
+      "text": "Insulina ludzka Gensulin M 40 zaw. do wstrzykiwań 0,2 j.m./kg mc ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1493,
+      "flashcardSetId": 72,
+      "name": "Cukrzyca t.2+ nerki",
+      "text": "Glikwidon Glurenorm  Tabl. 30 mg 1x1 przy śniadaniu ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1494,
+      "flashcardSetId": 72,
+      "name": "cukrzyca typu 2",
+      "text": "Metformina Metformax 500 Tabl. 500 mg 3x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1495,
+      "flashcardSetId": 72,
+      "name": "Cukrzyca + przeciwskazania do metforminy + nadwaga",
+      "text": "Dapagliflozyna Forxida Tabl. 10mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1496,
+      "flashcardSetId": 72,
+      "name": "Czerwienica prawdziwa - świąd",
+      "text": "ASA Acard  Tabl. 75 mg Małe dawki ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1497,
+      "flashcardSetId": 72,
+      "name": "Czerwienica prawdziwa",
+      "text": "hydroksymocznik Hydroxycarbamid Teva Tabl. 500mg 15-20mg/kg 1x/d ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1498,
+      "flashcardSetId": 72,
+      "name": "czkawka oporna na inne leki",
+      "text": "Chloropromazyna Fenactil  Amp. 2ml25mg/ml 3x50 mg I.M. ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1499,
+      "flashcardSetId": 72,
+      "name": "Depresja – Mao (3,4 rzut)",
+      "text": "Mobemid Moklobemid  Tabl. 150 mg 2x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1500,
+      "flashcardSetId": 72,
+      "name": "Depresja + apatia, wycofanie",
+      "text": "Fluoksetyna Bioxetin  Tabl. 20 mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1501,
+      "flashcardSetId": 72,
+      "name": "Depresja + bezsenność",
+      "text": "Doksepina,Amitryptylina Doksepin Amitryptylinum  Tabl. 25 mgTabl. 25 mg 1x1  (wieczorem)1x1  (wieczorem) ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1502,
+      "flashcardSetId": 72,
+      "name": "Depresja + ból",
+      "text": "Amitryptylina Amitryptylinum VP  Tabl. 25 mg 2x2 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1503,
+      "flashcardSetId": 72,
+      "name": "Depresja + bulimia",
+      "text": "Fluoksetyna Bioxetin  Tabl. 20 mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1504,
+      "flashcardSetId": 72,
+      "name": "Depresja + ciąża",
+      "text": "Fluoksetyna Bioxetin  Tabl. 20 mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1505,
+      "flashcardSetId": 72,
+      "name": "Depresja + lęk",
+      "text": "Escitalopram Mozarin  Tabl. 10 mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1506,
+      "flashcardSetId": 72,
+      "name": "Depresja + migrena ",
+      "text": "Amitryptylina Amitryptylinum VP  Tabl. 25 mg 2x2 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1507,
+      "flashcardSetId": 72,
+      "name": "Depresja lekooporna tlpd",
+      "text": "Doksepina Doxepin  Tabl. 25 mg 3x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1508,
+      "flashcardSetId": 72,
+      "name": "Depresja łagodna",
+      "text": "Tianeptyna Tianesal  Tabl. 12,5 mg 3x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1509,
+      "flashcardSetId": 72,
+      "name": "Depresja ssri",
+      "text": "Sertralina Asertin  Tabl. 50 mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1510,
+      "flashcardSetId": 72,
+      "name": "Depresja, lęk + alkoholizm",
+      "text": "Buspiron Spamilan  Tabl. 5 mg 2x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1511,
+      "flashcardSetId": 72,
+      "name": "Dihydropirydynowy bloker kanałów Ca2+ długodziałający, obniża ciśnienie, wywołuje obrzęk leczymy to IKA",
+      "text": "Amlodypina Amlozek  Tabl. 5 mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1512,
+      "flashcardSetId": 72,
+      "name": "Diuretyk + dna moczanowa",
+      "text": "Indapamid Indapamide  Tabl. 1,5 mg 1x1 (najlepiej rano) ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1513,
+      "flashcardSetId": 72,
+      "name": "Dna moczanowa – ostry napad ",
+      "text": "Kolchicyna Colchicum dispert - 78 Tabl. 0,5mg 1x3 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1514,
+      "flashcardSetId": 72,
+      "name": "dna moczanowa 1 rzut , hiperurykemia",
+      "text": "Allopurynol Allupol - 19 Tabl. 100mg 1x1 popić dużą ilością wody  ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1515,
+      "flashcardSetId": 72,
+      "name": "Dna moczanowa 2 rzut",
+      "text": "Febuksostat Adenuric - 14 Tabl. 80mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1516,
+      "flashcardSetId": 72,
+      "name": "Drogi żółciowe",
+      "text": "Hymekromon Cholestil - 69 Tabl. 200mg 3x1 30min przed posiłk. ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1517,
+      "flashcardSetId": 72,
+      "name": "drżenia mięśniowe",
+      "text": "Propranolol Propranolol WZF  Tabl. 10/40mg 1 tabl. 2x/d ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1518,
+      "flashcardSetId": 72,
+      "name": "Duszności - doraźne przerwanie",
+      "text": "Fenoterol Berotec N 100 Aerozol wziewny 1 doraźnie ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1519,
+      "flashcardSetId": 72,
+      "name": "gastroskopia",
+      "text": "Metoklopramid Metoclopramidum Amp. 10mg i.v. 1amp tuż przed bad. ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1520,
+      "flashcardSetId": 72,
+      "name": "GKS",
+      "text": "Prednizolon Encortolon  Tabl. 5mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1521,
+      "flashcardSetId": 72,
+      "name": "Gks oczy",
+      "text": "Fluorometolon Flarex  Zaw. Do oczu 1mg/ml 1 kropla 4x/d ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1522,
+      "flashcardSetId": 72,
+      "name": "Glistnica, owsiki",
+      "text": "Albendazol Zentel  Tab. 400mg 400mg Jednorazowo rozgryźć i rzuć\u000bTasiemczyca i węgorek: 3 dni 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1523,
+      "flashcardSetId": 72,
+      "name": "Gronkowiec złocisty",
+      "text": "Mupirocyna Bactroban  Krem 20mg/g Miejscowo 3x/d max 10dni ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1524,
+      "flashcardSetId": 72,
+      "name": "Grzybica - kandydoza jamy ustnej",
+      "text": "Nystatyna  Nystatyna Teva Granulat do zaw. Doustnej 100k j.m/gram Pędzlować, 5ml co 6h, 7dni ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1525,
+      "flashcardSetId": 72,
+      "name": "Kandydoza j.u. II rzut",
+      "text": "Flukonazol Flukofast Tabl. 100mg 2x1 7-21 przełyk gardło 14-30 przełyk ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1526,
+      "flashcardSetId": 72,
+      "name": "Grzybica- Candida albicans",
+      "text": "Izokonazol Travogen  Krem 10mg/g 1x/d na skórę, kont. 1-2tyg po ustąpieniu objawów ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1527,
+      "flashcardSetId": 72,
+      "name": "Grzybica p.pokarmowego",
+      "text": "Nystatyna Nystatyna teva  Tabl. 500k.m 1t co 6h, 14 dni ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1528,
+      "flashcardSetId": 72,
+      "name": "grzybica paznokci II rzut",
+      "text": "Cyclopiroks Ciclolack  Lakier do pazn. \u000b80mg/g Co 2 dni, zmyć raz w tyg ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1529,
+      "flashcardSetId": 72,
+      "name": "Grzybica sportowców (stopa atlety)",
+      "text": "Terbinafina Lamisilatt  Płyn na skórę 10mg/g 1x/d na stopę i nie myć 24h ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1530,
+      "flashcardSetId": 72,
+      "name": "Grzybica pochwy – drożdzaki i inne oporne na nystatynę",
+      "text": "Klotrimazol Clotrimazolum GSK (0,5)  Tabl. Do poch. 100mg 1x1 przez 7 dni ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1531,
+      "flashcardSetId": 72,
+      "name": "Grypa, inh. neuroaminidaz",
+      "text": "oseltamiwir Tamiflu Tabl. 75mg 2x1 przez 5 dni ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1532,
+      "flashcardSetId": 72,
+      "name": "HBV ",
+      "text": "Interferon alfa-2 Roferon-A  Amp. 3mln jm  s.c. 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1533,
+      "flashcardSetId": 72,
+      "name": "Hemoroidy ",
+      "text": "Lidocaina + tribenozyd Procto Glyvenol  Czopki  1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1534,
+      "flashcardSetId": 72,
+      "name": "Hepatoprotekcja, rozpuszczanie kamieni żółciowych",
+      "text": "Kwas ursodeoksycholowy Ursopol  Tabl. 150mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1535,
+      "flashcardSetId": 72,
+      "name": "hiperprolaktynemia",
+      "text": "kabergolina Dostinex Tabl. 0,5 mg 1x tydzień ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1536,
+      "flashcardSetId": 72,
+      "name": "hipoglikemia ",
+      "text": "glukagon GlucaGen 1mg HypoKit Proszek i rozp. do sporz. roztw. do wstrzykiwań (1mg) 1mg jednorazowo s.c. lub i.m.  ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1537,
+      "flashcardSetId": 72,
+      "name": "Hipotonia (midodryna - hipotonia i nietrzymanie moczu)",
+      "text": "midodrynafludrokortyzon GutronCortineff Tabl. 2,5 mg 0,5 tabl. 1x1 krótko po porannym wstaniu ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1538,
+      "flashcardSetId": 72,
+      "name": "Hirsutyzm + nadciśnienie, otyłość, niewydolność serca",
+      "text": "Spironolakton Sprionol Tabl. 25mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1539,
+      "flashcardSetId": 72,
+      "name": "H. pylori eradykacja schemat trójkowy",
+      "text": "AmoksycylinaMetronidazolOmeprazol AmotaksMetronidazolBioprazol Tabl. 1000mgTabl. 250mg Tabl. 20mg 1tabl co 12h przez 2tyg2tabl co 12h przez 2tyg1 tabl co 12h. przez 2tyg. ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1540,
+      "flashcardSetId": 72,
+      "name": "H. pylori schemat czterolekowy",
+      "text": "Bizmut + metronidazol + tetracyklina + omeprazol oddzielnie Pylera + Bioprazol Tabl. 3 tabl Pylera  4x/d + 20mg Bioprazol 2x/d (rano i wieczorem), przez 10dni, po posiłkach ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1541,
+      "flashcardSetId": 72,
+      "name": "Jaskra, zespół Sjogrena, zapalenie tęczówki",
+      "text": "pilokarpina Pilocarpinum WZF 2%  Krople do oczu 1kropla co 6-8h, napad co 5min ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1542,
+      "flashcardSetId": 72,
+      "name": "Kaszel",
+      "text": "dekstrometorfan Acodin  Tabl. 15mg  1t co 4gh ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1543,
+      "flashcardSetId": 72,
+      "name": "Kaszel (preparat z opioidem)",
+      "text": "Kodeina + sulfagwajakol Thiocodin Tabl. 1 co 3h ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1544,
+      "flashcardSetId": 72,
+      "name": "Kaszel po ACEI",
+      "text": "Losartan Xartan  Tabl. 50mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1545,
+      "flashcardSetId": 72,
+      "name": "Kiła",
+      "text": "Penicylina G Penicilinum Crystallisatum  Amp. 1mln jm. i.m 1 mln j.m co 6h ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1546,
+      "flashcardSetId": 72,
+      "name": "Klasyczny neuroleptyk niestosowany p.psychotycznie (nudności, wymioty)",
+      "text": "tietylperazyna Torecan  Czop. 6,5mg 3x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1547,
+      "flashcardSetId": 72,
+      "name": "Ko analgetyk ",
+      "text": "Pregabalina Lyrica  Tabl. 75mg 2x75mg ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1548,
+      "flashcardSetId": 72,
+      "name": "kołatania serca + nadczynnośc tarczycy + krążenie hiperkinetyczne",
+      "text": "Propranolol Propranolol  Tabl. 40mg 2x2 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1549,
+      "flashcardSetId": 72,
+      "name": "Krwawienie powierzchowne",
+      "text": "Etamsylat Cyclonamine  Amp. 125mg/ml Nasączyć tampon/gazę ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1550,
+      "flashcardSetId": 72,
+      "name": "Krwawienie z żylaków",
+      "text": "terlipresyna Glypressin Amp 0,85mg 2mg co 4h 24h po opanowaniu, max 48 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1551,
+      "flashcardSetId": 72,
+      "name": "Profilaktyka żylaków przełyku",
+      "text": "propranolol Propranolol WZF Tabl. 40mg 2x2 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1552,
+      "flashcardSetId": 72,
+      "name": "Kwas moczowy",
+      "text": "Losartan Xartan   1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1553,
+      "flashcardSetId": 72,
+      "name": "Lęk napadowy",
+      "text": "SSRI Servenon Tabl. 10mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1554,
+      "flashcardSetId": 72,
+      "name": "Lęk ",
+      "text": "Diazepam Relanium  Tabl. 2mg 3x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1555,
+      "flashcardSetId": 72,
+      "name": "Lęk II rzut",
+      "text": "TLPD - doksepina Doxepin Teva Tabl. 10mg 3tab 1x/d ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1556,
+      "flashcardSetId": 72,
+      "name": "Lęk (np. Przy depresji) + bezsenność (+poprawia funkcję seksualną)",
+      "text": "Trazadon  Trittico CR  Tabl. 75mg Wieczorem przed snem ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1557,
+      "flashcardSetId": 72,
+      "name": "Lęk społeczny",
+      "text": "Moklobemid (inh. MAO A) Mobemid Tabl. 150mg 2x2 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1558,
+      "flashcardSetId": 72,
+      "name": "łuszczyca",
+      "text": "prednizolon Mecortolon  Krem 5mg/ml Miejscowo 2x/d ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1559,
+      "flashcardSetId": 72,
+      "name": "łuszczycowe zapalenie stawów",
+      "text": "adalimumab Humira  2x Amp strz\u000b40mg/0,8ml 1 raz na 2 tygodnie 1 amp sc ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1560,
+      "flashcardSetId": 72,
+      "name": "łysienie androgenowe miejscowo",
+      "text": "minoksydyl Loxon  Płyn na skórę 50 mg/ml 1 ml wmasowywać w skórę głowy 2x dziennie ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1561,
+      "flashcardSetId": 72,
+      "name": "Łysienie androgenowe",
+      "text": "finasteryd Propecia Tabl. 1mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1562,
+      "flashcardSetId": 72,
+      "name": "Małopłytkowość immunologiczna ",
+      "text": "romiplostym Nplate  Proszek do roz. Do wstrz. 0,25mg Raz w tygodniu s.c. ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1563,
+      "flashcardSetId": 72,
+      "name": "Małopłytkowość indukowana heparyną",
+      "text": "fondaparinux Arixtra  Amp. 5mg/ml 7,5mg sc, profil. 2,5mg sc ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1564,
+      "flashcardSetId": 72,
+      "name": "małopłytkowość w marskosci watr ",
+      "text": "eltrombopag Revolade  Tabl. 50mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1565,
+      "flashcardSetId": 72,
+      "name": "Marskość wątroby – pierwotna żółciowa",
+      "text": "Kwas ursodeoksycholowy Ursopol 300  Kaps. 150mg 3x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1566,
+      "flashcardSetId": 72,
+      "name": "Metamizol ",
+      "text": "metamizol Pyralgina  Tabl. 500mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1567,
+      "flashcardSetId": 72,
+      "name": "Migotanie + choroba serca (przeciwkrzepliwe)",
+      "text": "warfaryna Warfin Tabl. 3mg 1x1, pod kontrolą INR, kontrola raz w miesiącu ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1568,
+      "flashcardSetId": 72,
+      "name": "Migotanie + reszta ok",
+      "text": "Amiodaron Cordarone  Amp. 50mg/ml Iv 1amp wlew ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1569,
+      "flashcardSetId": 72,
+      "name": "Migotanie przedsionków (tab w kieszeni)",
+      "text": "Propafenon Rytmonorm  Tabl. 150mg 400-600mg doraźnie ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1570,
+      "flashcardSetId": 72,
+      "name": "Migrena – doraźnie (lub +wymioty), agonista r. serotoninowych",
+      "text": "Sumatryptan Amigrenex Tabl. 50mg 1 tabl. Doraźnie max 300mg ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1571,
+      "flashcardSetId": 72,
+      "name": "Miorelaksacyjny w stwardnieniu rozsianym, uszkodzeniu rdzenia,udarze, ZOMR, urazie głowy",
+      "text": "Bakolfen Baclofen Polpharma  Tabl. 10/25mg 1 tabl. 3x/d podczas posiłkow ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1572,
+      "flashcardSetId": 72,
+      "name": "Moczówka prosta",
+      "text": "Hydrochlorotiazyd Hydrochlorothiazidum Tabl. 25mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1573,
+      "flashcardSetId": 72,
+      "name": "Nadciśnienie - diuretyk",
+      "text": "Hydrochlorotiazyd Hydrochlorothiazidum Tabl. 12,5mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1574,
+      "flashcardSetId": 72,
+      "name": "Nadciśnienie + androponizacja (laska)",
+      "text": "Spironolakton Spironol  Tabl. 25mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1575,
+      "flashcardSetId": 72,
+      "name": "Nadciśnienie + astma/POCHP",
+      "text": "Amlodypina/Losartan Amlozek Tabl 5mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1576,
+      "flashcardSetId": 72,
+      "name": "Nadciśnienie + białkomocz 1 rzut",
+      "text": "ACE-I, ramiprilARBs, losartan PiramilXartan Tabl 2,5mgTabl. 50mg 1x11x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1577,
+      "flashcardSetId": 72,
+      "name": "Nadciśnienie + białkomocz 2 rzut tak jak w cukrzycy",
+      "text": "amlodypina Adipine   ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1578,
+      "flashcardSetId": 72,
+      "name": "Nadciśnienie + ciąża - 1 rzut",
+      "text": "Metyldopa Dopegyt  Tabl. 250mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1579,
+      "flashcardSetId": 72,
+      "name": "Nadciśnienie + ciąża - 2 rzut",
+      "text": "Labetalol ale nie ma w Polsce wiec werapamil Isoptin SR Tabl. 120mg 1x/d ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1580,
+      "flashcardSetId": 72,
+      "name": "Nadciśnienie + cukrzyca + białkomocz",
+      "text": "Ramipril/Losartan/ II rzut Ca bloker Piramil Tabl 2,5mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1581,
+      "flashcardSetId": 72,
+      "name": "Nadciśnienie + cukrzyca 1 rzut",
+      "text": "Ramipril/ Losartan Piramil Tabl. 2,5mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1582,
+      "flashcardSetId": 72,
+      "name": "Nadciśnienie + cukrzyca 2 rzut",
+      "text": "Ca bloker Adipine Tabl. 5mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1583,
+      "flashcardSetId": 72,
+      "name": "Nadciśnienie + dławica",
+      "text": "B-bloker, Ca bloker Propranolol; diltiazem  Tabl. 2x2;  ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1584,
+      "flashcardSetId": 72,
+      "name": "Nadciśnienie + dna moczanowa",
+      "text": "Losartan Xartan  Tabl. 50mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1585,
+      "flashcardSetId": 72,
+      "name": "Nadciśnienie + jaskra",
+      "text": "Betaksolol Lokren 20 Tabl 20mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1586,
+      "flashcardSetId": 72,
+      "name": "Nadciśnienie + miażdżyca ",
+      "text": "Diltiazem Dilzem  Tabl. 60mg 3x/d przed posiłkiem ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1587,
+      "flashcardSetId": 72,
+      "name": "Nadciśnienie + migotanie przedsionków utrwalone",
+      "text": "Bisoprolol Bisocard  Tabl. 2,5/5/10 mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1588,
+      "flashcardSetId": 72,
+      "name": "Nadciśnienie + nerki 1 rzut",
+      "text": "Ramipril, losartan Piramil; xartan  Tabl. 2,5mgTabl. 50mg 1x1; 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1589,
+      "flashcardSetId": 72,
+      "name": "Nadciśnienie + nerki 2 rzut",
+      "text": "furosemid Furosemidum  2x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1590,
+      "flashcardSetId": 72,
+      "name": "Nadciśnienie + niewydolność serca",
+      "text": "Furosemid ; bisoprolol ; \u000bramipryl; \u000blosartan Furosemidum\u000bBisocard\u000bPiramil; \u000bxartan  i.v. 1amp. wlew 4 mg/min; 1x1; 1x1; 1x1; ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1591,
+      "flashcardSetId": 72,
+      "name": "Nadciśnienie + oporne na leczenie",
+      "text": "Antagonista aldosteronu; amiloryd; alfa-1 bloker Inspra  1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1592,
+      "flashcardSetId": 72,
+      "name": "Nadciśnienie + oporne na tiazydy",
+      "text": "Furosemid Furosemidum  2x1t ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1593,
+      "flashcardSetId": 72,
+      "name": "Nadciśnienie + potencja 1 rzut",
+      "text": "losartan  xartan Tabl. 50mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1594,
+      "flashcardSetId": 72,
+      "name": "Nadciśnienie + potencja 2 rzut",
+      "text": "Nebiwolol Nebivol Tabl. 5mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1595,
+      "flashcardSetId": 72,
+      "name": "Nadciśnienie + przerost lewej komory",
+      "text": "Ramipril Piramil  1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1596,
+      "flashcardSetId": 72,
+      "name": "Nadciśnienie + udar",
+      "text": "Ramipryl\u000blosartan\u000bdiuretyk Piramilxartan,  1x1; 1x1;  ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1597,
+      "flashcardSetId": 72,
+      "name": "Nadciśnienie + zawał",
+      "text": "Bisoprolol Bisocard Tabl.  1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1598,
+      "flashcardSetId": 72,
+      "name": "Nadciśnienie płucne + obrzęki",
+      "text": "Furosemid Furosemidum Tabl. 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1599,
+      "flashcardSetId": 72,
+      "name": "Nadciśnienie płucne + tachykardia",
+      "text": "Diltiazem Dilzem  4x1 przed posiłkiem i snem ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1600,
+      "flashcardSetId": 72,
+      "name": "Nadciśnienie płucne przy wazoreaktywności",
+      "text": "Nifedypina/Diltiazem/Amlodypina Dilzem Werapamil przeciwskazany!!!  ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1601,
+      "flashcardSetId": 72,
+      "name": "Nadciśnienie płucne pierwotne",
+      "text": "Epoprostenol  Rp. Veletri  Przedłuża życie 25ng/kg/min, 5min wlew noszony w formie pompy ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1602,
+      "flashcardSetId": 72,
+      "name": "J.w. gdy DN po epoprostenolu",
+      "text": "TreprostinilIloprost BozentanSildenafil Rp.RemodulinRp. VentavisRp. Bosentan CelonRp. Revatio 20 mg Analog PGI2Inh endoteliny I.v.Wziewniep.o. ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1603,
+      "flashcardSetId": 72,
+      "name": "Nadczynn tarczycy w ciązy",
+      "text": "propylotiouracyl\u000btiamazol (wole jak za duża dawka, agranulocytoza) Thyrosan 1 trym\u000bThyrozol 2 i 3trym 100mg\u000b\u000b10mg 3x/d\u000b\u000b2x/d ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1604,
+      "flashcardSetId": 72,
+      "name": "Niedoczynność tarczycy",
+      "text": "L-tyroksyna Euthyrox N 100 Tabl. 100µg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1605,
+      "flashcardSetId": 72,
+      "name": "Narkolepsja",
+      "text": "Metylofenidad Concerta  Tabl. 18mg 1x1 Rpw ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1606,
+      "flashcardSetId": 72,
+      "name": "Stwardnienie - nawracajace ",
+      "text": "Natalizumab Tysabri  Roz. 20mg/ml 300mg 1xdz iv ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1607,
+      "flashcardSetId": 72,
+      "name": "neuralgia nerwu trójdzielnego",
+      "text": "Karbamazepina Amizepin Tabl. 200mg 100mg 2x/d + kolejne dni 100mg/12h max 1200mg ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1608,
+      "flashcardSetId": 72,
+      "name": "Neuroleptyk (poch. benzamidu) pomocniczo przy chorobach ukł. pok.",
+      "text": "Sulpiryd Sulpiryd Teva  Tabl. 100mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1609,
+      "flashcardSetId": 72,
+      "name": "Niemasywny zator plucny",
+      "text": "Enoksaparyna Clexane Amp. Strz 80mg/0.8ml 1 amp. Sc.  ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1610,
+      "flashcardSetId": 72,
+      "name": "Nieoperacyjny guz mózgu",
+      "text": "Deksametazon Pabi-Dexamethason  Tabl. 0,5mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1611,
+      "flashcardSetId": 72,
+      "name": "Niestabilna dławica piersiowa",
+      "text": "ASA,klopidogrel Acard; Plavix  Tabl. 75 mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1612,
+      "flashcardSetId": 72,
+      "name": "Nietolerancja ASA",
+      "text": "klopidogrel Plavix Tabl. 75mg 75mg/d ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1613,
+      "flashcardSetId": 72,
+      "name": "Niewydolność krążenia – ciężka diuretyk",
+      "text": "Furosemid Furosemidum Amp. 20mg/2ml i.v. 1amp. wlew 4 mg/min ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1614,
+      "flashcardSetId": 72,
+      "name": "Niewydolność krążenia ciężka przewlekła",
+      "text": "Furosemid   1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1615,
+      "flashcardSetId": 72,
+      "name": "Niewydolność lewej komory ciężka",
+      "text": "Furosemid   i.v. 1amp. wlew 4 mg/min ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1616,
+      "flashcardSetId": 72,
+      "name": "Niewydolność nerek + obrzęki",
+      "text": "Furosemid   1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1617,
+      "flashcardSetId": 72,
+      "name": "Niewydolność serca - zaawansowana",
+      "text": "Digoksyna Digoxin TEVA 250 Tabl. 0,25mg 1x1 (żółto-fioletowe widzenie!) ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1618,
+      "flashcardSetId": 72,
+      "name": "niewydolność żylna - miejscowo",
+      "text": "heparyna Lioton  1000 j.m./g 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1619,
+      "flashcardSetId": 72,
+      "name": "Niewydolność żylna - ogólnie",
+      "text": "escyna Aescin  Tabl. 20 mg 3x2 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1620,
+      "flashcardSetId": 72,
+      "name": "Nieżyt nosa alergiczny (przeciwhistaminowy)",
+      "text": "Azelastyna Allergodil Aerozol do nosa 1mg/ml 1 rozpylenie do każdej dziurki 2x/d ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1621,
+      "flashcardSetId": 72,
+      "name": "Nieżyt nosa alergiczny, naczynioruchowy GKS",
+      "text": "propionian flutykazonu Fanipos  Aerozol do nosa50 µg/dawkę 1x2 dawki do każdego nozdrza najlepiej rano ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1622,
+      "flashcardSetId": 72,
+      "name": "NLPZ najgorszy dla żołądka i nerek",
+      "text": "Ketoprofen Ketonal Tabl. 50mg 1tabl 3x/d, w czasie posiłku, osłonowo można dać IPP ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1623,
+      "flashcardSetId": 72,
+      "name": "NLPZ najgorszy dla serca",
+      "text": "celekoksyb Celebrex Tabl. 200mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1624,
+      "flashcardSetId": 72,
+      "name": "NLPZ najlepszy dla serca",
+      "text": "Naproksen  Apo-Napro Tabl. 250mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1625,
+      "flashcardSetId": 72,
+      "name": "NLPZ najgorszy dla wątroby",
+      "text": "Diklofenak Diclac Tabl. 50mg 2x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1626,
+      "flashcardSetId": 72,
+      "name": "NSTEMI",
+      "text": "ASA,klopidogrel Acard Clopidogrel  Tabl. 75 mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1627,
+      "flashcardSetId": 72,
+      "name": "Nużliwość mięśni (miastenia gravis)",
+      "text": "neostygminapirydostygmina Polstigminum Mestinon Amp. 1ml 0,5mg/mlTabl. 60 mg 3x1 I.M.3x2 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1628,
+      "flashcardSetId": 72,
+      "name": "Objawy negatywne (schizofrenia, autyzm) ",
+      "text": "olanzapina Olanzapin  Tabl. ulegające rozpadowi w jamie ustnej10 mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1629,
+      "flashcardSetId": 72,
+      "name": "Obrzęk płuc",
+      "text": "furosemid Furosemidum Amp. 2ml10 mg/ml 2 amp. I.V.+ Aqua pro Injectione ! ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1630,
+      "flashcardSetId": 72,
+      "name": "Obrzęki ",
+      "text": "hydrochlorotiazyd Hydrochlorothiazidum Tabl. 25 mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1631,
+      "flashcardSetId": 72,
+      "name": "Obrzęk mózgu",
+      "text": "mannitol Mannitol 15% Baxter Roz. Do inf. 150mg/ml Wlew i.v. 30-50ml/h 20-200g/d ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1632,
+      "flashcardSetId": 72,
+      "name": "Opryszczka ",
+      "text": "acyklowir Virolex  Krem 50mg/g(5%) Co 4h, 5dni ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1633,
+      "flashcardSetId": 72,
+      "name": "Opryszczka - ogólne",
+      "text": "acyklowir Heviran  Tabl. 200 mg 1tabl. co 4h, 5dni ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1634,
+      "flashcardSetId": 72,
+      "name": "OZ neuroleptyczny",
+      "text": "benserazyd + lewodopa Madopar 250 Tabl.  200 mg lewodopy + 50mg beserazydu 3 x 1 10dni?? ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1635,
+      "flashcardSetId": 72,
+      "name": "OZ serotoninowy -  łagodna postać",
+      "text": "loranzapina Lorafen   Tabl. 1mg 3x1   ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1636,
+      "flashcardSetId": 72,
+      "name": "OZ serotoninowy - umiarkowana postać",
+      "text": "cyproheptadyna Peritol Tabl. 4mg 3x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1637,
+      "flashcardSetId": 72,
+      "name": "OZ serotoninowy - ciężka postać",
+      "text": "olanzapina Olanzapin Tabl. ulegająca rozpadowi w jamie ustnej 10 mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1638,
+      "flashcardSetId": 72,
+      "name": "OZ serotoninowy - hipertermia",
+      "text": "diazepam Relanium Roztwór do wstrzykiwań 10mg/2ml 10-20mg i.v. ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1639,
+      "flashcardSetId": 72,
+      "name": "OZ serotoninowy + tachykardia + nadciśnienie",
+      "text": "esmolol Esmocard 100 mg/10ml Roztwór do wstrzykiwań10mg/ml Użytek szpitalny ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1640,
+      "flashcardSetId": 72,
+      "name": "OZ wieńcowe + migotanie",
+      "text": "warfaryna Warfin  Tabl. 3 mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1641,
+      "flashcardSetId": 72,
+      "name": "OZ wieńcowe + migotanie + INR >2",
+      "text": "warfaryna Warfin Clexane  Tabl. 3 mgAmpułkostrzykawka 80 mg/0,8 ml 1x1 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1642,
+      "flashcardSetId": 72,
+      "name": "Padaczka doraźnie",
+      "text": "diazepam Relsed  mikrowlewy doodbytnicze2,5 ml2mg/ml 1 doraźnie ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1643,
+      "flashcardSetId": 72,
+      "name": "Padaczka + antykoncepcja",
+      "text": "kwas walproinowy Convulex  Tabl. 500 mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1644,
+      "flashcardSetId": 72,
+      "name": "Padaczka + ciąża",
+      "text": "lamotrygina Epitrigine  Tabl. 25mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1645,
+      "flashcardSetId": 72,
+      "name": "Padaczka - napady częściowe",
+      "text": "karbamazepina Amizepin  Tabl. 200mg 3x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1646,
+      "flashcardSetId": 72,
+      "name": "Padaczka – wszystko inne",
+      "text": "kwas walproinowy Convulex  Tabl. 300mg 5-10mg/kg mc ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1647,
+      "flashcardSetId": 72,
+      "name": "Parkinson ogólnie",
+      "text": "Lewodopa + benserazyd Madopar Tabl. 50mg+12,5mg 3x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1648,
+      "flashcardSetId": 72,
+      "name": "Parkinson przed 70r.ż ",
+      "text": "Selegilina Segan Tabl. 5mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1649,
+      "flashcardSetId": 72,
+      "name": "Parkinson przerwa od lewodopy ",
+      "text": "Amantadyna Amantix Tabl. 100 mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1650,
+      "flashcardSetId": 72,
+      "name": "Parkinson + operacja (odstawienie lewodopy)",
+      "text": "Rotygotyna Neupro Syst. Transderm. 2mg/24g 1/24h ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1651,
+      "flashcardSetId": 72,
+      "name": "Pęcherz nadreaktywny ",
+      "text": "solifenacyna Vesicare Tabl. 5 mg 2x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1652,
+      "flashcardSetId": 72,
+      "name": "Pecherz nadreaktywny + jaskra",
+      "text": "mirabegron Betmiga  Tabl. 50mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1653,
+      "flashcardSetId": 72,
+      "name": "POChP",
+      "text": "Bromek tiotropium  Spiriva Proszek do inhalacji w kaps. twardych18µg/dawkę inhalacyjną 1x1 o tej samej porze ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1654,
+      "flashcardSetId": 72,
+      "name": "POChP zaostrzenie -  antybiotyk",
+      "text": "amoksycylina Amotaks Tabl. 1000 mg 1 tabl. co 8h przez 5 dni ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1655,
+      "flashcardSetId": 72,
+      "name": "POChP zaostrzenie - antybiotyk + uczulenie na penicyliny",
+      "text": "azytromycyna-makrolid Azithromycin Actavis  Tabl. 500 mg 1 tabl. co 24h przez 3 dni ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1656,
+      "flashcardSetId": 72,
+      "name": "Polipy nosa",
+      "text": "propionian flutykazonu Fanipos  Aerosol do nosa50µg/dawkę donosową 1x2 dawki do każdego nozdrza najlepiej rano ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1657,
+      "flashcardSetId": 72,
+      "name": "Pokrzywka",
+      "text": "cetyryzyna Allertec Tabl. 10 mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1658,
+      "flashcardSetId": 72,
+      "name": "Premedykacja ",
+      "text": "midazolam hydroksyzyna DormicumAtaraxHydroxyzinum Tabl. 7,5 mgTabl. 25 mgAmp. 2ml50mg/ml 1 tabl. 30 min przed zabiegiem4 tabl.1 amp. I.M. - tylko w ciężkich przypadkach ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1659,
+      "flashcardSetId": 72,
+      "name": "Prinzmethal",
+      "text": "izosorbiddiltiazem werapamil Effox  10Dilzem 180 retardIsoptin  SR Tabl. 10 mgTabl. 180 mgTabl. 120 mg 2x1 (16h przerwa) 4x1 przed posiłkiem i snem; 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1660,
+      "flashcardSetId": 72,
+      "name": "Profilaktyka okołooperacyjna",
+      "text": "cefazolina Biofazolin Proszek do sporz. roztworu do wstrzykiwań1000mg 1000 mg I.V. w postaci wstrzyknięć (3-5min) lub wlewu (20-30min) 30-60 min przed planowanym zabiegiem ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1661,
+      "flashcardSetId": 72,
+      "name": "prostata",
+      "text": "tamsulozyna Omnic 0,4 Tabl. 0,4 mg 1x1 po śniadaniu ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1662,
+      "flashcardSetId": 72,
+      "name": "Prostata + hipotonia",
+      "text": "tamsulozyna Omnic 0,4 Tabl. 0,4 mg 1x1 po śniadaniu ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1663,
+      "flashcardSetId": 72,
+      "name": "Prostata + nadciśnienie",
+      "text": "doksazosyna Cardura  Tabl. 1 mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1664,
+      "flashcardSetId": 72,
+      "name": "Przeciwkrzepliwe – sztuczne zastawki",
+      "text": "warfaryna Warfin  Tabl. 3 mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1665,
+      "flashcardSetId": 72,
+      "name": "Przeciwkrzepliwe - Terapia potrójna",
+      "text": "ASAklopidogreldabigatran Acard + Plavix +Pradaxa 110 mg Tabl. 75 mgTabl. 75 mgTabl. 110 mg 1x11x11x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1666,
+      "flashcardSetId": 72,
+      "name": "Przeciwkrzepliwe + nerki ",
+      "text": "rywaroksaban Xarelto  15 mg Tabl. 15 mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1667,
+      "flashcardSetId": 72,
+      "name": "Przeciwkrzepliwy – rozlegle zabiegi ortopedyczne",
+      "text": "rywaroksaban Xarelto  15 mg Tabl. 15 mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1668,
+      "flashcardSetId": 72,
+      "name": "Przeciwkrzepliwy + ciąża",
+      "text": "enoksaparyna Clexane  Ampułkostrzykawka 20mg/0,2ml 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1669,
+      "flashcardSetId": 72,
+      "name": "Przeciwkrzepliwy + profilaktyka zawału, udaru",
+      "text": "ASA Acard  Tabl. 75 mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1670,
+      "flashcardSetId": 72,
+      "name": "Przeciwkrzepliwy + stenty ",
+      "text": "warfaryna Warfin  Tabl. 3 mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1671,
+      "flashcardSetId": 72,
+      "name": "Przeciwkrzepliwy: stan po udarze z astmą aspirynową",
+      "text": "tiklopidyna Ticlo  Tabl. 250 mg 2x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1672,
+      "flashcardSetId": 72,
+      "name": "Przedwczesny wytrysk",
+      "text": "lidokaina  Lidocainum  Żel 20mg/g 1h przed stosunkiem ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1673,
+      "flashcardSetId": 72,
+      "name": "Przedwczesny wytrysk",
+      "text": "lidokaina Lidocain-Egis Aerosol 3-6 dawek aerosolu na żołądź prącia 5-15min przed stosunkiem ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1674,
+      "flashcardSetId": 72,
+      "name": "Przedwczesny wytrysk",
+      "text": "paroksetyna - SSRI Paroxinor Tabl. 20 mg 1 tabl. 3-4h przed stosunkiem ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1675,
+      "flashcardSetId": 72,
+      "name": "Przełom tarczycowy",
+      "text": "propranolol Propranolol Accord Amp. 1ml1mg/ml 1amp I.V. powoli pod kontrolą EKG+ Aqua pro Injectione ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1676,
+      "flashcardSetId": 72,
+      "name": "Przerost lewej komory",
+      "text": "ramipryl - ACEI Ramipril Accord Tabl. 5 mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1677,
+      "flashcardSetId": 72,
+      "name": "Przerost mięśnia sercowego ",
+      "text": "ramipryl - ACEI Ramipril Accord Tabl. 5 mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1678,
+      "flashcardSetId": 72,
+      "name": "Przeszczep 1",
+      "text": "cyklosporyna Cyclaid kaps. 10-15mg/kgmc/d start 12h przed przeszczepem ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1679,
+      "flashcardSetId": 72,
+      "name": "Przeszczep 2 ",
+      "text": "baziliksymab Simulect 1 fiol 20mg Bolus i.v. ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1680,
+      "flashcardSetId": 72,
+      "name": "Łuszczyca plackowata przewlekła",
+      "text": "etanercept Enbrel  Ampułkostrzykawka 50 mg 50mg 1xtyg S.C. ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1681,
+      "flashcardSetId": 72,
+      "name": "Rak jelita grub z przerzutami",
+      "text": "cetuksymab Erbitux  Roztwór do infuzji fiolki 20ml, 100ml5mg/ml 1/x tydzień we wlewie I.V. 10mg/minI dawka 400mg/m2p.c. w ciągu 2h ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1682,
+      "flashcardSetId": 72,
+      "name": "Rak piersi po zabiegu ",
+      "text": "tamoksyfen Tamoxifen Tabl. 20 mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1683,
+      "flashcardSetId": 72,
+      "name": "Rak prostaty",
+      "text": "flutamid Flutamid EGIS Tabl. 250 mg 3x1 (co 8h) ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1684,
+      "flashcardSetId": 72,
+      "name": "Retinopatia cukrzycowa",
+      "text": "dobesylan wapniowy Doxium 500 Tabl. 500 mg 2x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1685,
+      "flashcardSetId": 72,
+      "name": "Ropnie tkanek miękkich ",
+      "text": "amoksycylina + kwas klawulonowy Augmentin Proszek do sporz. roztworu do wstrzykiwań I.V. i wlewu I.V. 1200 mg1000mg amoksycyliny + 200mg kwasu klawulonowgo 1200mg w powolnym wstrzyknięciu I.V. (3-4min) co 8h przez 7 dni ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1686,
+      "flashcardSetId": 72,
+      "name": "Rak sutka - rozsiany",
+      "text": "bewacyzumab Avastin  Koncentrat do sporz. roztw. do infuzjifiolki 4 ml, 16ml25mg/ml 10mg/kg mc. co 14 dni ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1687,
+      "flashcardSetId": 72,
+      "name": "RSV profilaktyka u dzieci",
+      "text": "paliwizumab Synagis  Proszek i rozp. do sporz. roztw. do wstrzykiwań50mg I.M. 1x/miesiąc15mg/kg prze cały okres zagrożenia ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1688,
+      "flashcardSetId": 72,
+      "name": "Rumień wedrujacy",
+      "text": "doksycyklina Doxyratio M Tabl. 100 mg 2x1 przez 21 dni ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1689,
+      "flashcardSetId": 72,
+      "name": "Rzekomobłoniaste zapalenie jelit",
+      "text": "metronidazol Metronidazol  Tabl. 250 mgUWAGA na tabletki dopochwowe 500mg!!! 2 tabl. co 8h, 10dni ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1690,
+      "flashcardSetId": 72,
+      "name": "Rzeżączka - leczenie skojarzoneantybiotyk B-laktamowy w skojarzeniu z makrolidem lub tetracykliną",
+      "text": "B-laktam:ceftrakson I.M.B-laktam:cefiksymMakrolid:azytromycynaTetracyklina:doksycyklina BiotraksonSupraxAzitrinDoxycyclinum TZF Proszek do sporz. roztworu do wstrzykiwań i wlewu fiolki 1000mgProszek do sporz. zaw. doustnej20mg/ml50ml (26,5 g proszku)Tabl. 500 mgTabl. 100 mg 250mg I.M. jednorazowo400 mg jednorazowo1000 mg jednorazowo100 mg co 12h przez 7 dni ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1691,
+      "flashcardSetId": 72,
+      "name": "Rzęsistkowica pochwy",
+      "text": "metronidazol Metronidazol  Tabl. 250 mgTabl. dopochwowe 500 mg 2 tabl. doustnie co 12 h przez 7 dni+ 1 tabl. dopochwowa na noc przez 7 dni ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1692,
+      "flashcardSetId": 72,
+      "name": "RZS I rzut",
+      "text": "metotreksat Ebetrexat Ampułkostrzykawka 7,5mg/0,375ml 1x/ tydzieńS.C. ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1693,
+      "flashcardSetId": 72,
+      "name": "RZS gdy metotreksat nie działa lub dodatkowo",
+      "text": "adalimumab Humira  Ampułkostrzykawka\u000b40mg/0,8ml 1x/2 tygodnie S.C. ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1694,
+      "flashcardSetId": 72,
+      "name": "Salmonella ",
+      "text": "nifuroksazyd Nifuroksazyd  Tabl. 100 mg 2x1 co 6h, 7dni ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1695,
+      "flashcardSetId": 72,
+      "name": "Schizofrenia atypowe",
+      "text": "olanzapina Olanzapin  Tabl. 10 mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1696,
+      "flashcardSetId": 72,
+      "name": "Schizofrenia depot",
+      "text": "haloperydol Decaldol  Amp. 1ml  50mg/ml Raz na  4tyg I.M. ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1697,
+      "flashcardSetId": 72,
+      "name": "Schizofrenia oporna",
+      "text": "klozapina Klozapol  Tabl. 25 mg 2x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1698,
+      "flashcardSetId": 72,
+      "name": "Schizofrenia klasyczne",
+      "text": "chloropromazyna Fenactil  Krople doustne40 mg/g 1 kropla - 1,29mg chlororpromazyny3x20kropli ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1699,
+      "flashcardSetId": 72,
+      "name": "skaza małopłytkowa ciężka ",
+      "text": "deksametazon Pabi-Dexamethason Tabl. 0,5mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1700,
+      "flashcardSetId": 72,
+      "name": "Skurcze m. szkieletowych",
+      "text": "tolperyzon Tolperis VP Tabl. 50 mg 3x1 po posiłku ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1701,
+      "flashcardSetId": 72,
+      "name": "Statyna - najsilniejsza",
+      "text": "rozuwastatyna Rosuvastatin  Tabl. 5 mg 1x1, na czczo ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1702,
+      "flashcardSetId": 72,
+      "name": "Statyna + chora wątroba",
+      "text": "rozuwastatyna Rosuvastatin  Tabl. 5 mg 1x1, na czczo ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1703,
+      "flashcardSetId": 72,
+      "name": "Statyna + chore nerki",
+      "text": "atorwastatyna Artois  Tabl. 10 mg 1x1, na czczo ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1704,
+      "flashcardSetId": 72,
+      "name": "Statyna + immunosupresja",
+      "text": "fluwastatyna Lescol   Tabl. 20 mg 1x1, na czczo, wieczorem ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1705,
+      "flashcardSetId": 72,
+      "name": "Lek hipolipemizujący w ciąży - lek wiążący kwasy żółcioweżywica jonowymienna",
+      "text": "kolesewelam Cholestagel Tabl. 625 mg 2x2 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1706,
+      "flashcardSetId": 72,
+      "name": "Hiperlipidemia + nadciśnienie preparat złożony",
+      "text": "amlodypina + atorwastatyna Amlator Tabl. 5mg amlodypiny + 10 mg atorwastatyny 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1707,
+      "flashcardSetId": 72,
+      "name": "Lek stosowany w skojarzeniu ze statyna - zmniejszający wchłanianie cholesterolu w jelitach",
+      "text": "etezymib Ezetrol Tabl. 10 mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1708,
+      "flashcardSetId": 72,
+      "name": "Najsilniejszy fibrat - fenofibrat mikronizowany",
+      "text": "fenofibrat  Lipanthyl 200 M Tabl. 200 mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1709,
+      "flashcardSetId": 72,
+      "name": "STEMI",
+      "text": "prasugrel Efient  Tabl. 10 mg dawka pocz. 60mg, potem 10mg 1x/d ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1710,
+      "flashcardSetId": 72,
+      "name": "Suchość jamy ustnej(kerostomia)",
+      "text": "pilokarpina Salagen (nie ma już tego preparatu) Tabl. 5mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1711,
+      "flashcardSetId": 72,
+      "name": "Szpitalna profilaktyka okołooperacyjna A: cefalosporyna III gen",
+      "text": "ceftriakson Ceftriaxon Kabi  Proszek do sporz. roztw. do wstrzykiwań1000 mg 1000mg I.V. w powolnym wstrzyknięciu 30-90 min przed zabiegiem ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1712,
+      "flashcardSetId": 72,
+      "name": "Szpitalna profilaktyka okołooperacyjna B: amikacyna",
+      "text": "amikacyna Biodacyna  Roztw. do wstrzykiwań i infuzji Amp. 2ml250mg/ml 1 amp we wlewie  I.V. 2x/d ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1713,
+      "flashcardSetId": 72,
+      "name": "Szpitalna profilaktyka okołooperacyjna C",
+      "text": "metronidazol Metronidazol 0,5% Roztwór do infuzji 100ml 5mg/ml 500 mg bezpośrednio przed zabiegiemdawkę powtórzyć po 8h i 16h ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1714,
+      "flashcardSetId": 72,
+      "name": "Świąd - Anksjolityk ",
+      "text": "hydroksyzyna Atarax Tabl. 25 mg pocz. 1 tabl. przed snemw miarę potrzeby 3x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1715,
+      "flashcardSetId": 72,
+      "name": "świerzb",
+      "text": "permetryna Infectoscab 5% Krem 30g50mg/g na noc, na 8h i zmywamy. Powtarzamy po 7 dniach ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1716,
+      "flashcardSetId": 72,
+      "name": "Tachykardia + niepokój, lęk, stany autoagresywne, drżenie mięśniowe samoistne ",
+      "text": "propranolol Propranolol WZF Tabl. 20mg 2x2 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1717,
+      "flashcardSetId": 72,
+      "name": "Tachykardia ciężka – w szpitalu",
+      "text": "metoprolol Betaloc  Amp. 5ml 1mg.ml pocz. 5mg I.V. z szybkością 1-2mg/mindawkę można powtórzyć po 5min aż do uzyskania pożądanego efektu ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1718,
+      "flashcardSetId": 72,
+      "name": "Tachykardia zatokowa",
+      "text": "werapamil Isoptin SR  Tabl. 120 mg 2x1 , nie łączyć z b-blok. ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1719,
+      "flashcardSetId": 72,
+      "name": "Terapia pomostowa",
+      "text": "enoksaparynawarfaryna Clexane Warfin  Ampułkostrzykawka 40/0,4mltabl. 3mg  ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1720,
+      "flashcardSetId": 72,
+      "name": "Terapia zachowawcza kardio + podwyższone ryzyko krwawień",
+      "text": "fondaparynuks Arixtra  Ampułkostrzykawka 2,5mg/0,5ml 1x1 S.C.  ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1721,
+      "flashcardSetId": 72,
+      "name": "Tourett",
+      "text": "haloperydol Haloperidol WZF Tabl. 1mg 3x 1,5 tabl ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1722,
+      "flashcardSetId": 72,
+      "name": "Trądzik (maść z anty)",
+      "text": "Erytromycyna Aknemycin 20mg/g Miejscowo 2x/d ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1723,
+      "flashcardSetId": 72,
+      "name": "trzustka",
+      "text": "pankreatyna Kreon 25 000 Tabl. 25 000 j.m. 1 tabl. przed głównym posiłkiem ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1724,
+      "flashcardSetId": 72,
+      "name": "Ukąszenie przez węza- ",
+      "text": " ceftriakson  2g  jednoraz iv ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1725,
+      "flashcardSetId": 72,
+      "name": "Uspokajający w nadczynnności tarczycy",
+      "text": "diazepam Relanium  Tabl. 2mg 3x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1726,
+      "flashcardSetId": 72,
+      "name": "uzależnienie",
+      "text": "metadon Methadone Hydrochloride Molteni  Syrop 1mg/ml20 ml Rp.W.!\u000bpocz. dawka - 15-20mg ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1727,
+      "flashcardSetId": 72,
+      "name": "Uzależnienie od nikotyny (zmniejsz ryzyko zdazen s-n)",
+      "text": "buproprion - inhibitor zwrotnego wychwytu noradrenaliny i dopaminy Zyban  Tabl. 150 mg 1tabl.  rano przez 3dni, od 4.dnia 1tabl. rano i 1tabl. po południu leczenie co najmniej 7 tygodni  ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1728,
+      "flashcardSetId": 72,
+      "name": "Wiremia wątroby",
+      "text": "peginterferon alfa-2arybawiryna PegasysCopegus  Ampułkostrzykawka 180µg/0,5mlTabl. 200 mg 1x1/tydzień???? ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1729,
+      "flashcardSetId": 72,
+      "name": "Wrzodziejące zapalenie jelita grubego, Leśniowski-Crohn w jelicie grubym, (RZS- II rzut)",
+      "text": "sulfasalazyna Sulfasalzin EN  Tabl. 500 mg ostra postać: 3x4łagodna i umiarkowana:3x2  ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1730,
+      "flashcardSetId": 72,
+      "name": "Leśniowski-Crohn",
+      "text": "mesalazyna Asamax 500 Tabl. 500 mg zaostrzenia: 3x2remisja: min. 2g/d ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1731,
+      "flashcardSetId": 72,
+      "name": "Wstrząs = groźne stany niedociśnienia",
+      "text": "noradrenalina Levonor  Amp. 1 mg/ml 0,5 mg/h i.v. we wlewie ciągłym pod kontrolą ciśnienia tętniczego ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1732,
+      "flashcardSetId": 72,
+      "name": "Wymioty (ciąża też, kat B)",
+      "text": "metoklopramid Metoclopramidum Tabl. 10 mg 3x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1733,
+      "flashcardSetId": 72,
+      "name": "Wymioty przed chemioterapią",
+      "text": "ondansetron Zofran  Amp. 4ml2mg/ml 1 amp. po rozcieńczeniu I.V. bezpośrednio przed chemioterapią ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1734,
+      "flashcardSetId": 72,
+      "name": "Wzdecia",
+      "text": "simetykon Ugix Wzdęcia Tabl. 80 mg 3x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1735,
+      "flashcardSetId": 72,
+      "name": "wziewny – antagonista rec. Muskarynowych sz – krótko działający (kilka h)",
+      "text": "bromek ipratropium Atrovent  N Aerosol wziewny,20µg/dawkę inhalacyjną 4x2 rozpylenia ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1736,
+      "flashcardSetId": 72,
+      "name": "Wziewny. długodziałający",
+      "text": "Bromek tiotropium Spiriva Proszek do inh w kaps. 18ug/d 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1737,
+      "flashcardSetId": 72,
+      "name": "Wziewny szybko dziłający, do przerywania napadu",
+      "text": "Fenoterol Berotec N 100  Aero wziewny, 100ug/dawka 1 dawka doraźnie ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1738,
+      "flashcardSetId": 72,
+      "name": "Wziewny złożony",
+      "text": "Fenoterol + ipratropium Berodual N Aero wziewny  ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1739,
+      "flashcardSetId": 72,
+      "name": "WZW B",
+      "text": "interferon alfa-2a Roferon A  Ampułkostrzykawka 3 mln j.m./0,5ml dawkowanie indywidualne ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1740,
+      "flashcardSetId": 72,
+      "name": "WZW B + marskość",
+      "text": "entekawir Baraclude  Tabl. 0,5mg wyrównana czynność wątroby: 1x1 przed posiłkiem lub po nimniewyrównana czynność wątroby: 1x2 na czczo (2h przed lub 2h po posiłku) ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1741,
+      "flashcardSetId": 72,
+      "name": "Zaburzenia krążenia mózgowego",
+      "text": "nicergolina Nilogrin  Tabl. 10mg,  3x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1742,
+      "flashcardSetId": 72,
+      "name": "zaburzenia lipidowe + cukrzyca",
+      "text": "fenofibrat Fenardin  Tabl. 160 mg 1x1 w trakcie posiłku ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1743,
+      "flashcardSetId": 72,
+      "name": "Zakażenie jelit C.difficile",
+      "text": "metronidazol Metronidazol Tabl. 250 mg 2 tabl. co 8h przez 10 dni ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1744,
+      "flashcardSetId": 72,
+      "name": "Zakażenia szpitalne",
+      "text": "amikacyna Biodacyna  Roztw. do wstrzykiwań i infuzji Amp. 2ml250mg/ml 1 amp we wlewie  I.V. 2x/d ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1745,
+      "flashcardSetId": 72,
+      "name": "Zakażenie górnych dróg oddechowych- błony śluzowej nosa i zatok I rzut: amoksycylina",
+      "text": "amoksycylina Duomox  Tabl. 1000 mg  1 tabl. co 8h przez 7 dni ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1746,
+      "flashcardSetId": 72,
+      "name": "Zakażenie górnych dróg oddechowych- błony śluzowej nosa i zatokII rzut: lewofloksacyna",
+      "text": "lewofloksacyna Levalox Tabl. 500mg  1 tabl. co 24h przez 7 dni ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1747,
+      "flashcardSetId": 72,
+      "name": "Zakażenie pochwy",
+      "text": "chlorchinaldol + metronidazol Gynalgin  Tabl. dopochwowe100 mg chlorchinaldolu250 mg metronidazolu 1x1 najlepiej na noc 2-4 dni po menstruacjileczenie - 10 dni ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1748,
+      "flashcardSetId": 72,
+      "name": "Zakrzepica wikłająca przewlekłą niewydolność żylna",
+      "text": "enoksaparyna Clexane   Ampułkostrzykawka 80 mg 2x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1749,
+      "flashcardSetId": 72,
+      "name": "zapalenia oka po zaćmie",
+      "text": "ketorolak trometamolu Acular  Krople do oczu5mg/ml10ml 3x1 kroplę do worka spojówkowego3-4 tygodnie ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1750,
+      "flashcardSetId": 72,
+      "name": "Zapalenia ucha środkowego I rzut",
+      "text": "amoksycylina Amotaks Tabl. 1000mg 1 tabl. co 8h przez 10 dni ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1751,
+      "flashcardSetId": 72,
+      "name": "Zapalenia ucha środkowego II rzut",
+      "text": "amoksycylina + kwas klawulonowy Augmentin  Tabl. 500mg amoksyliny + 125mg kwasu klawulonowgo 1 tabl. co 8h przez 10 dni ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1752,
+      "flashcardSetId": 72,
+      "name": "Zapalenie jelit - czynna postać choroby Leśniowskiego-Crohna",
+      "text": "infliksymab Remicade  Proszek do sporz. koncentratu roztworu do infuzji100 mg 3mg/kgdawki powtarzać po 2 i 6 tyg.,  a następnie co 8 tygodni ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1753,
+      "flashcardSetId": 72,
+      "name": "Zapalenie pęcherza + ciąża",
+      "text": "cefaleksyna   Keflex Tabl. 250 mg 250mg co 6h, 5 dni ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1754,
+      "flashcardSetId": 72,
+      "name": "Zapalenie płuc - czas leczenia zależny od czynnika etiologicznego",
+      "text": "    ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1755,
+      "flashcardSetId": 72,
+      "name": "Zapalenie płuc pozaszpitalne lekkie/umiarkowane I rzut",
+      "text": "amoksycylina Amotaks Tabl. 1000mg 1 tabl. co 8h  ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1756,
+      "flashcardSetId": 72,
+      "name": "Zapalenie płuc pozaszpitalne lekkie/umiarkowane II rzut",
+      "text": "amoksycylina + kwas klawulonowy Augmentin  Tabl. 875mg amoksyliny + 125mg kwasu klawulonowgo 1 tabl. co 8h  ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1757,
+      "flashcardSetId": 72,
+      "name": "Zapalenie płuc - ciężkie I rzut",
+      "text": "amoksycylina + kwas klawulonowy Augmentin  Tabl. 875mg amoksyliny + 125mg kwasu klawulonowgo 1 tabl. co 8h  ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1758,
+      "flashcardSetId": 72,
+      "name": "Zapalenie płuc - ciężkie II rzut",
+      "text": "lewofloksacyna - fluorochinolon Levoxa  Tabl. 500 mg 500mg co 12h  ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1759,
+      "flashcardSetId": 72,
+      "name": "Zapalenie płuc + ciąża ",
+      "text": "amoksycylina + kwas klawulonowy Augmentin  Tabl. 875mg amoksyliny + 125mg kwasu klawulonowgo 1 tabl. co 8h  ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1760,
+      "flashcardSetId": 72,
+      "name": "zaparcie",
+      "text": "bisakodyl Bisacodyl  Tabl. 5 mg 1x1 przed snem  ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1761,
+      "flashcardSetId": 72,
+      "name": "oczyszczenie okrężnicy do badań endoskopowych",
+      "text": "makrogole + siarczan sodu Fortrans Proszek do przyg. roztworu doustnego 1l roztworu/15-20 kg m.c. ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1762,
+      "flashcardSetId": 72,
+      "name": "Zapobieganie encefalopatii wątrobowej",
+      "text": "rifaksymina Xifaxan  Tabl. 200mg 1 tabl. co 8h przez max 7 dni ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1763,
+      "flashcardSetId": 72,
+      "name": "Dodatkowo do rifaksyminy",
+      "text": "laktuloza Duphalac Roztwór  doustny10g/15ml pocz. 30-45ml 3-4x/dnastępnie dostosować indywidualnie  ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1764,
+      "flashcardSetId": 72,
+      "name": "Leczenie encefalopatii wątrobowej",
+      "text": "asparaginian ornityny Hepa-Merz granulat do sporz. roztw. doustnego3g ornityny  1-2 saszetki 1-3x/dobęw trakcie posiłku lub po nim ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1765,
+      "flashcardSetId": 72,
+      "name": "Zatorowość płucna (niemasywna)",
+      "text": "enoksaparyna Clexane  Ampułkostrzykawka80mg/0,8ml 2x1 przez 10 dni ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1766,
+      "flashcardSetId": 72,
+      "name": "Zatrucie – diureza forsowana",
+      "text": "furosemid Furosemide Kabi Amp. 2ml10mg.ml 1-2amp. jednorazowo I.V. nie szybciej niż 4mg/minkolejne dawki co 2h ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1767,
+      "flashcardSetId": 72,
+      "name": "Zatrucie benzodiazepinami",
+      "text": "flumazenil Flumazenil  Amp. 5ml0,1mg/ml 0,3 mg I.V. w ciągu 15s, w razie konieczności można podać dalsze dawki 0,1mg co 60s, nie przekraczając 1mg (w intensywnej terapii 2mg) ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1768,
+      "flashcardSetId": 72,
+      "name": "Zatrucie heparyną",
+      "text": "protamina Siarczan protaminy 1% Amp. 5 ml10mg/ml I.V. we wtrzyknięciu,\u000b1mg na każde 100j.m heparyny ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1769,
+      "flashcardSetId": 72,
+      "name": "zespół lęku uogólnionego ",
+      "text": "Buspiron Spamilan  Tabl. 5 mg 2x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1770,
+      "flashcardSetId": 72,
+      "name": "zespół majaczeniowy",
+      "text": "haloperydol Haloperidol  WZF Tabl. 1mg 2x2 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1771,
+      "flashcardSetId": 72,
+      "name": "Zespół miesiąca miodowego ",
+      "text": "cyprofloksacyna Ciprobay 500  Tabl. 500 mg Jednorazowo 2 tabl. ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1772,
+      "flashcardSetId": 72,
+      "name": "Zespół poalkoholowy (drżenia)",
+      "text": "klorazepan Cloranxen  Tabl. 5mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1773,
+      "flashcardSetId": 72,
+      "name": "zespół Sjögrena",
+      "text": "pilokarpina Salagen (nie ma już tego preparatu) Tabl. 5mg 1x1 ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1774,
+      "flashcardSetId": 72,
+      "name": "ZUM u mężczyzn ",
+      "text": "lewofloksatyna Levoxa  Tabl. 500 mg 1tabl. co  12h przez 10 dni ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1775,
+      "flashcardSetId": 72,
+      "name": "Zwyrodnienie plamki żółtej",
+      "text": "ranibizumab Lucentis  Roztwór do wstrz.10mg/ml0,05ml 1x/miesiąc podawać do ciała szklistego oka,w warunkach ambulatoryjnych ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
+    },
+    {
+      "id": 1776,
+      "flashcardSetId": 72,
+      "name": "Kacheksja",
+      "text": "megestrol Cachexan – 59  Zaw. doustna 40mg/ml 400-800mg 1x/d ",
+      "isPictureAnswer": false,
+      "pictureBlob": "",
+      "isLearned": false
     }
   ]
 }
