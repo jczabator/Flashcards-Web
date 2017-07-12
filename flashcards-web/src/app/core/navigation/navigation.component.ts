@@ -19,7 +19,7 @@ export class NavigationComponent implements OnInit {
     this.menuItems = [
       { caption: "Kategorie", link: ["/flashcard-categories"] },
       { caption: "Quizy", link: ["/flashcard-sets"] },
-      { caption: "Fiszki", link: ["/flashcards"] }
+      { caption: "Fiszki", link: ["/flashcard"] }
     ]
   }
 
