@@ -16,6 +16,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { FlashcardSetService } from './services/flashcard-set.service';
 import { FlashcardService } from "./services/flashcard.service";
 import { FlashcardCategoryService } from "./services/flashcard-category.service";
+import { FlashcardFirebaseService } from "./services/flashcard-firebase.service";
 
 import { CoreModule } from "./core/core.module";
 import { DashboardModule } from "./components/dashboard/dashboard.module";
@@ -56,7 +57,8 @@ export const firebaseConfig = {
   providers: [
     FlashcardSetService,
     FlashcardService,
-    FlashcardCategoryService
+    FlashcardCategoryService,
+    FlashcardFirebaseService
   ],
   bootstrap: [AppComponent]
 })

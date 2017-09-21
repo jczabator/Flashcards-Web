@@ -14,14 +14,13 @@ const flashcardsUrl = Config.baseUrls.flashcardsFirebase;
 @Injectable()
 export class FlashcardFirebaseService {
   user: Observable<firebase.User>;
-  items: FirebaseListObservable<any[]>;
+  flashcards: FirebaseListObservable<Flashcard[]>;
   flashcard: Flashcard;
 
   constructor(
     private http: Http,
     public firebaseAuth: AngularFireAuth,
-    public firebaseDatabase: AngularFireDatabase) {
-      this.items = this.firebaseDatabase.list(flashcardsUrl);
+    public firebaseDatabase: AngularFireDatabase) {      
       this.user = this.firebaseAuth.authState;
   };
 
@@ -34,11 +33,12 @@ export class FlashcardFirebaseService {
   }
 
   add(flashcard: Flashcard) {
-    this.items.push(flashcard)
+    this.flashcards.push(flashcard)
   }
-
+ 
   get() {
-    return this.items;
+    this.flashcards = this.firebaseDatabase.list(flashcardsUrl);
+    return this.flashcards;
   }
 }
 

@@ -5,7 +5,7 @@ import { FlexLayoutModule } from "@angular/flex-layout";
 
 import { routedComponents, FlashcardRoutingModule } from "./flashcard-routing.module";
 
-import { FlashcardFirebaseService } from "../../services/flashcard-firebase.service";
+
 
 @NgModule({
   imports: [
@@ -16,7 +16,6 @@ import { FlashcardFirebaseService } from "../../services/flashcard-firebase.serv
   ],
   declarations: [
     routedComponents
-  ],
-  providers: [FlashcardFirebaseService],
+  ],  
 })
 export class FlashcardModule { }
