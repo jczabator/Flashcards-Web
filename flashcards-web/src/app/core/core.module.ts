@@ -4,6 +4,7 @@ import { MaterialModule } from '@angular/material';
 import { FlexLayoutModule } from "@angular/flex-layout";
 
 import { NavigationComponent } from "./navigation/navigation.component";
+import { UserLoginComponent } from './user-login/user-login.component';
 
 @NgModule({
     imports: [
@@ -16,7 +17,7 @@ import { NavigationComponent } from "./navigation/navigation.component";
         MaterialModule,
         [NavigationComponent]
     ],
-    declarations: [NavigationComponent],
+    declarations: [NavigationComponent, UserLoginComponent],
     providers:[]
 })
 export class CoreModule {    

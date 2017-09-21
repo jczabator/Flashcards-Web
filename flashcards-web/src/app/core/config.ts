@@ -3,6 +3,7 @@ export const Config = {
     flashcardSets: "assets/flashcardSets.json",
     flashcards: "assets/flashcards.json",
     flashcardCategories: "assets/flashcardCategories.json",
-    flashcardsFirebase: "/flashcards"
+    flashcardsFirebase: "/flashcards",
+    flashcardSetsFirebase: "/flashcardSets"
   }  
 };

@@ -4,6 +4,7 @@ import { MaterialModule } from '@angular/material';
 import { FlexLayoutModule } from "@angular/flex-layout";
 
 import { routedComponents, FlashcardRoutingModule } from "./flashcard-routing.module";
+import { FlashcardButtonComponent } from './flashcard-button/flashcard-button.component';
 
 
 
@@ -15,7 +16,8 @@ import { routedComponents, FlashcardRoutingModule } from "./flashcard-routing.mo
     FlashcardRoutingModule
   ],
   declarations: [
-    routedComponents
+    routedComponents,
+    FlashcardButtonComponent
   ],  
 })
 export class FlashcardModule { }
