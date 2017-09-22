@@ -27,6 +27,10 @@ const routes: Routes = [
   {
     path:"flashcard",
     loadChildren: "app/components/flashcard/flashcard.module#FlashcardModule"
+  },
+  {
+    path: "user-login",
+    loadChildren: "app/components/user-login/user-login.module#UserLoginModule"
   }
 ]
 

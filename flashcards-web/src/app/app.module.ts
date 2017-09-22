@@ -25,6 +25,7 @@ import { QuizModule } from './components/quiz/quiz.module';
 import { FlashcardCategoriesModule } from "./components/flashcard-categories/flashcard-categories.module";
 import { FlashcardSetsModule } from "./components/flashcard-sets/flashcard-sets.module";
 import { FlashcardModule } from "./components/flashcard/flashcard.module";
+import { UserLoginModule } from "./components/user-login/user-login.module";
 
 export const firebaseConfig = {
   apiKey: "AIzaSyCZrajeWksDA4Ql1bCBE2SHu64jSYMgMYg",
@@ -46,6 +47,7 @@ export const firebaseConfig = {
     QuizModule,
     FlashcardCategoriesModule,
     FlashcardSetsModule,
+    UserLoginModule,
     FlexLayoutModule,
     MaterialModule,
     AngularFireModule.initializeApp(firebaseConfig),

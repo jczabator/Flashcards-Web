@@ -19,7 +19,8 @@ export class NavigationComponent implements OnInit {
     this.menuItems = [
       { caption: "Kategorie", link: ["/flashcard-categories"] },
       { caption: "Quizy", link: ["/flashcard-sets"] },
-      { caption: "Fiszki", link: ["/flashcard"] }
+      { caption: "Fiszki", link: ["/flashcard"] },
+      { caption: "Logowanie", link: ["/user-login"] }
     ]
   }
 

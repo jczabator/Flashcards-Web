@@ -1,0 +1,23 @@
+Hello
+<div *ngIf="!firebaseLoginService.currentUser;else alreadyLoggedIn">
+  IN
+  <button (click)="signInWithFacebook()">
+  Connect Facebook
+</button>
+
+  <ng-template #alreadyLoggedIn>
+    OUT
+    already logged in!
+    <!-- User logged in -->
+    <div *ngIf="auth.currentUser">
+      <h3>Howdy, {{ auth.currentUser.auth.displayName }}</h3>
+      <img [src]="auth.currentUser.photoURL || 'https://api.adorable.io/avatars/109/fire.png'" width=50px>
+      <button (click)="logout()">Logout</button>
+    </div>
+    <!-- User NOT logged in -->
+    <div *ngIf="!auth.currentUser">
+      <h3>Howdy, {{ auth.currentUserDisplayName }}</h3>
+      <p>Login to get started...</p>
+      <button routerLink="/login">Login</button>
+    </div>
+  </ng-template>

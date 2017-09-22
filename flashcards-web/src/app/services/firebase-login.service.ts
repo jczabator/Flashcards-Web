@@ -15,6 +15,16 @@ export class FirebaseLoginService{
       firebase.auth().onAuthStateChanged(this.setLoginStatus);
   };
 
+  get authenticated(): boolean {
+    console.log(this.user !== null);    
+    return this.user !== null;    
+  }
+
+  get currentUser(): any {
+    console.log(this.authenticated ? this.firebaseAuth.auth : null);
+    return this.authenticated ? this.firebaseAuth.auth : null;
+  }
+
   setLoginStatus(user){
     if(user){
       this.isSignedIn = true;
@@ -22,6 +32,10 @@ export class FirebaseLoginService{
     else{
       this.isSignedIn = false;
     }
+  }
+
+  facebookLogin(): firebase.Promise<firebase.User> {
+    return this.firebaseAuth.auth.signInWithPopup(new firebase.auth.FacebookAuthProvider());
   }
 
   login() {
