@@ -4,6 +4,7 @@ export const Config = {
     flashcards: "assets/flashcards.json",
     flashcardCategories: "assets/flashcardCategories.json",
     flashcardsFirebase: "/flashcards",
-    flashcardSetsFirebase: "/flashcardSets"
+    flashcardSetsFirebase: "/flashcardSets",
+    flashcardCategoriesFirebase: "/flashcardCategories"
   }  
 };

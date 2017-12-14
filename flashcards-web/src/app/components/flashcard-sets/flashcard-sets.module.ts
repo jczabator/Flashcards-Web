@@ -5,7 +5,7 @@ import { FlexLayoutModule } from "@angular/flex-layout";
 
 import { routedComponents, FlashcardSetsRoutingModule } from "./flashcard-sets-routing.module";
 
-import { FlashcardSetService } from "../../services/flashcard-set.service";
+import { FlashcardSetService } from "../../services/rest/flashcard-set.service";
 import { FlashcardSetButtonComponent } from './flashcard-set-button/flashcard-set-button.component';
   
 @NgModule({

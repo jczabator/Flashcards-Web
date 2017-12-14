@@ -2,8 +2,8 @@ import { Injectable } from "@angular/core";
 import { Http, Response } from "@angular/http";
 import { Observable } from "rxjs/observable";
 
-import { FlashcardSet } from "./../models/flashcard-set.model";
-import { Config } from "../core/config";
+import { FlashcardSet } from "./../../models/flashcard-set.model";
+import { Config } from "../../core/config";
 
 const flashcardSetsUrl = Config.baseUrls.flashcardSets;
 

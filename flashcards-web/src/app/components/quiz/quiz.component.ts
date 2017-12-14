@@ -3,7 +3,7 @@ import { ActivatedRoute, Router } from "@angular/router";
 import { Observable } from "rxjs/Observable";
 import { Subscription } from "rxjs/Subscription";
 
-import { FlashcardService } from "../../services/flashcard.service";
+import { FlashcardService } from "../../services/rest/flashcard.service";
 import { QuizService } from "./service/quiz.service";
 
 import { Flashcard } from "../../models/flashcard.model";

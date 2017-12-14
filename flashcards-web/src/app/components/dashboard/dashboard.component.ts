@@ -4,7 +4,7 @@ import { Observable } from "rxjs/Observable";
 import { Subscription } from "rxjs/Subscription";
 
 import { FlashcardSet } from "../../models/flashcard-set.model";
-import { FlashcardSetService } from "../../services/flashcard-set.service";
+import { FlashcardSetService } from "../../services/rest/flashcard-set.service";
 
 @Component({
   moduleId: module.id,

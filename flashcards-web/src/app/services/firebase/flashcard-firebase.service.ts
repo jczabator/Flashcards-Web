@@ -1,8 +1,8 @@
 import { Injectable } from "@angular/core";
 import { Observable } from "rxjs/observable";
 
-import { Flashcard } from "./../models/flashcard.model";
-import { Config } from "./../core/config";
+import { Flashcard } from "./../../models/flashcard.model";
+import { Config } from "./../../core/config";
 
 import { AngularFireDatabase, FirebaseListObservable } from "angularfire2/database";
 
@@ -22,6 +22,19 @@ export class FlashcardFirebaseService {
  
   get() {
     this.flashcards = this.firebaseDatabase.list(flashcardsUrl);
+    return this.flashcards;
+  }
+
+  getByFlashcardSet(flashcardSetId: number){
+    this.flashcards = this.firebaseDatabase.list(flashcardsUrl, {
+        query: {
+          equalTo: {
+            key: "flashcardSetId",
+            value: flashcardSetId
+          }
+      }
+    });
+
     return this.flashcards;
   }
 }

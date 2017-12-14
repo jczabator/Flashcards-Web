@@ -13,11 +13,10 @@ import "./core/rxjs-extensions";
 import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
 
-import { FlashcardSetService } from './services/flashcard-set.service';
-import { FlashcardService } from "./services/flashcard.service";
-import { FlashcardCategoryService } from "./services/flashcard-category.service";
-import { FlashcardFirebaseService } from "./services/flashcard-firebase.service";
-import { FirebaseLoginService } from "./services/firebase-login.service";
+import { FlashcardSetFirebaseService } from './services/firebase/flashcard-set-firebase.service';
+import { FlashcardFirebaseService } from "./services/firebase/flashcard-firebase.service";
+import { FlashcardCategoryFirebaseService } from "./services/firebase/flashcard-category-firebase.service";
+import { FirebaseLoginService } from "./services/firebase/firebase-login.service";
 
 import { CoreModule } from "./core/core.module";
 import { DashboardModule } from "./components/dashboard/dashboard.module";
@@ -58,9 +57,9 @@ export const firebaseConfig = {
     AppComponent,    
   ],
   providers: [
-    FlashcardSetService,
-    FlashcardService,
-    FlashcardCategoryService,
+    FlashcardSetFirebaseService,
+    FlashcardFirebaseService,
+    FlashcardCategoryFirebaseService,
     FlashcardFirebaseService,
     FirebaseLoginService
   ],

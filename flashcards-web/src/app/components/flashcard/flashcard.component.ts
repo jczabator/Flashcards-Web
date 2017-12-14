@@ -4,8 +4,8 @@ import { Observable } from "rxjs/Observable";
 import { Subscription } from "rxjs/Subscription";
 
 import { Flashcard } from "../../models/flashcard.model";
-import { FlashcardFirebaseService } from "../../services/flashcard-firebase.service";
-import { FirebaseLoginService } from "../../services/firebase-login.service";
+import { FlashcardFirebaseService } from "../../services/firebase/flashcard-firebase.service";
+import { FirebaseLoginService } from "../../services/firebase/firebase-login.service";
 import { FirebaseListObservable } from "angularfire2/database";
 
 @Component({

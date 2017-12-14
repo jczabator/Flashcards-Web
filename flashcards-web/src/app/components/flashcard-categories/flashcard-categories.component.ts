@@ -4,7 +4,7 @@ import { Observable } from "rxjs/Observable";
 import { Subscription } from "rxjs/Subscription";
 
 import { FlashcardCategory } from "../../models/flashcard-category.model";
-import { FlashcardCategoryService } from "../../services/flashcard-category.service";
+import { FlashcardCategoryService } from "../../services/rest/flashcard-category.service";
 
 @Component({
   selector: 'flashcard-categories',
