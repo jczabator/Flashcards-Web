@@ -3,77 +3,7 @@
     {
       "id": 1,
       "flashcardCategoryId": 1,
-      "name": "Antykoagulanty"
-    },
-    {
-      "id": 2,
-      "flashcardCategoryId": 2,
-      "name": "Antyarytmiczne"
-    },
-    {
-      "id": 3,
-      "flashcardCategoryId": 1,
-      "name": "Układ autonomiczny część przywspółczólna"
-    },
-    {
-      "id": 4,
-      "flashcardCategoryId": 2,
-      "name": "Azotany"
-    },
-    {
-      "id": 5,
-      "flashcardCategoryId": 1,
-      "name": "B-Blokery"
-    },
-    {
-      "id": 6,
-      "flashcardCategoryId": 1,
-      "name": "Blokujące kan wapniowe"
-    },
-    {
-      "id": 7,
-      "flashcardCategoryId": 1,
-      "name": "Leki moczopędne"
-    },
-    {
-      "id": 8,
-      "flashcardCategoryId": 1,
-      "name": "W chorobie nadciśnieniowej"
-    },
-    {
-      "id": 9,
-      "flashcardCategoryId": 1,
-      "name": "Inotropowe dodatnie"
-    },
-    {
-      "id": 10,
-      "flashcardCategoryId": 1,
-      "name": "Drugie aktualizacja"
-    },
-    {
-      "id": 11,
-      "flashcardCategoryId": 1,
-      "name": "Trzecie"
-    },
-    {
-      "id": 12,
-      "flashcardCategoryId": 1,
-      "name": "Leki na OUN"
-    },
-    {
-      "id": 13,
-      "flashcardCategoryId": 1,
-      "name": "Nowe"
-    },
-    {
-      "id": 14,
-      "flashcardCategoryId": 1,
-      "name": "Sterydy"
-    },
-    {
-      "id": 15,
-      "flashcardCategoryId": 1,
-      "name": "Autonomiczny 2 – Współczulny część 1"
-    }
+      "name": "Programowanie"
+    }    
   ]
 }
